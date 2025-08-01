@@ -1,0 +1,8167 @@
+[
+    {
+        "number": 1,
+        "rarity": "Mythic",
+        "power": 126320
+    },
+    {
+        "number": 2,
+        "rarity": "Mythic",
+        "power": 125820
+    },
+    {
+        "number": 3,
+        "rarity": "Mythic",
+        "power": 125320
+    },
+    {
+        "number": 4,
+        "rarity": "Mythic",
+        "power": 124820
+    },
+    {
+        "number": 5,
+        "rarity": "Mythic",
+        "power": 124320
+    },
+    {
+        "number": 6,
+        "rarity": "Mythic",
+        "power": 123820
+    },
+    {
+        "number": 7,
+        "rarity": "Mythic",
+        "power": 123320
+    },
+    {
+        "number": 8,
+        "rarity": "Mythic",
+        "power": 122820
+    },
+    {
+        "number": 9,
+        "rarity": "Mythic",
+        "power": 122320
+    },
+    {
+        "number": 10,
+        "rarity": "Mythic",
+        "power": 121820
+    },
+    {
+        "number": 11,
+        "rarity": "Mythic",
+        "power": 121320
+    },
+    {
+        "number": 12,
+        "rarity": "Mythic",
+        "power": 120820
+    },
+    {
+        "number": 13,
+        "rarity": "Mythic",
+        "power": 120320
+    },
+    {
+        "number": 14,
+        "rarity": "Mythic",
+        "power": 119820
+    },
+    {
+        "number": 15,
+        "rarity": "Mythic",
+        "power": 119320
+    },
+    {
+        "number": 16,
+        "rarity": "Mythic",
+        "power": 118820
+    },
+    {
+        "number": 17,
+        "rarity": "Legendary",
+        "power": 59160
+    },
+    {
+        "number": 18,
+        "rarity": "Legendary",
+        "power": 59060
+    },
+    {
+        "number": 19,
+        "rarity": "Legendary",
+        "power": 58960
+    },
+    {
+        "number": 20,
+        "rarity": "Legendary",
+        "power": 58860
+    },
+    {
+        "number": 21,
+        "rarity": "Legendary",
+        "power": 58760
+    },
+    {
+        "number": 22,
+        "rarity": "Legendary",
+        "power": 58660
+    },
+    {
+        "number": 23,
+        "rarity": "Legendary",
+        "power": 58560
+    },
+    {
+        "number": 24,
+        "rarity": "Legendary",
+        "power": 58460
+    },
+    {
+        "number": 25,
+        "rarity": "Legendary",
+        "power": 58360
+    },
+    {
+        "number": 26,
+        "rarity": "Legendary",
+        "power": 58260
+    },
+    {
+        "number": 27,
+        "rarity": "Legendary",
+        "power": 58160
+    },
+    {
+        "number": 28,
+        "rarity": "Legendary",
+        "power": 58060
+    },
+    {
+        "number": 29,
+        "rarity": "Legendary",
+        "power": 57960
+    },
+    {
+        "number": 30,
+        "rarity": "Legendary",
+        "power": 57860
+    },
+    {
+        "number": 31,
+        "rarity": "Legendary",
+        "power": 57760
+    },
+    {
+        "number": 32,
+        "rarity": "Legendary",
+        "power": 57660
+    },
+    {
+        "number": 33,
+        "rarity": "Legendary",
+        "power": 57560
+    },
+    {
+        "number": 34,
+        "rarity": "Legendary",
+        "power": 57460
+    },
+    {
+        "number": 35,
+        "rarity": "Legendary",
+        "power": 57360
+    },
+    {
+        "number": 36,
+        "rarity": "Legendary",
+        "power": 57260
+    },
+    {
+        "number": 37,
+        "rarity": "Legendary",
+        "power": 57160
+    },
+    {
+        "number": 38,
+        "rarity": "Legendary",
+        "power": 57060
+    },
+    {
+        "number": 39,
+        "rarity": "Legendary",
+        "power": 56960
+    },
+    {
+        "number": 40,
+        "rarity": "Legendary",
+        "power": 56860
+    },
+    {
+        "number": 41,
+        "rarity": "Legendary",
+        "power": 56760
+    },
+    {
+        "number": 42,
+        "rarity": "Legendary",
+        "power": 56660
+    },
+    {
+        "number": 43,
+        "rarity": "Legendary",
+        "power": 56560
+    },
+    {
+        "number": 44,
+        "rarity": "Legendary",
+        "power": 56460
+    },
+    {
+        "number": 45,
+        "rarity": "Legendary",
+        "power": 56360
+    },
+    {
+        "number": 46,
+        "rarity": "Legendary",
+        "power": 56260
+    },
+    {
+        "number": 47,
+        "rarity": "Legendary",
+        "power": 56160
+    },
+    {
+        "number": 48,
+        "rarity": "Legendary",
+        "power": 56060
+    },
+    {
+        "number": 49,
+        "rarity": "Legendary",
+        "power": 55960
+    },
+    {
+        "number": 50,
+        "rarity": "Legendary",
+        "power": 55860
+    },
+    {
+        "number": 51,
+        "rarity": "Legendary",
+        "power": 55760
+    },
+    {
+        "number": 52,
+        "rarity": "Legendary",
+        "power": 55660
+    },
+    {
+        "number": 53,
+        "rarity": "Legendary",
+        "power": 55560
+    },
+    {
+        "number": 54,
+        "rarity": "Legendary",
+        "power": 55460
+    },
+    {
+        "number": 55,
+        "rarity": "Legendary",
+        "power": 55360
+    },
+    {
+        "number": 56,
+        "rarity": "Legendary",
+        "power": 55260
+    },
+    {
+        "number": 57,
+        "rarity": "Legendary",
+        "power": 55160
+    },
+    {
+        "number": 58,
+        "rarity": "Legendary",
+        "power": 55060
+    },
+    {
+        "number": 59,
+        "rarity": "Legendary",
+        "power": 54960
+    },
+    {
+        "number": 60,
+        "rarity": "Legendary",
+        "power": 54860
+    },
+    {
+        "number": 61,
+        "rarity": "Legendary",
+        "power": 54760
+    },
+    {
+        "number": 62,
+        "rarity": "Legendary",
+        "power": 54660
+    },
+    {
+        "number": 63,
+        "rarity": "Legendary",
+        "power": 54560
+    },
+    {
+        "number": 64,
+        "rarity": "Legendary",
+        "power": 54460
+    },
+    {
+        "number": 65,
+        "rarity": "Legendary",
+        "power": 54360
+    },
+    {
+        "number": 66,
+        "rarity": "Legendary",
+        "power": 54260
+    },
+    {
+        "number": 67,
+        "rarity": "Legendary",
+        "power": 54160
+    },
+    {
+        "number": 68,
+        "rarity": "Legendary",
+        "power": 54060
+    },
+    {
+        "number": 69,
+        "rarity": "Legendary",
+        "power": 53960
+    },
+    {
+        "number": 70,
+        "rarity": "Legendary",
+        "power": 53860
+    },
+    {
+        "number": 71,
+        "rarity": "Legendary",
+        "power": 53760
+    },
+    {
+        "number": 72,
+        "rarity": "Legendary",
+        "power": 53660
+    },
+    {
+        "number": 73,
+        "rarity": "Legendary",
+        "power": 53560
+    },
+    {
+        "number": 74,
+        "rarity": "Legendary",
+        "power": 53460
+    },
+    {
+        "number": 75,
+        "rarity": "Legendary",
+        "power": 53360
+    },
+    {
+        "number": 76,
+        "rarity": "Legendary",
+        "power": 53260
+    },
+    {
+        "number": 77,
+        "rarity": "Legendary",
+        "power": 53160
+    },
+    {
+        "number": 78,
+        "rarity": "Legendary",
+        "power": 53060
+    },
+    {
+        "number": 79,
+        "rarity": "Legendary",
+        "power": 52960
+    },
+    {
+        "number": 80,
+        "rarity": "Legendary",
+        "power": 52860
+    },
+    {
+        "number": 81,
+        "rarity": "Legendary",
+        "power": 52760
+    },
+    {
+        "number": 82,
+        "rarity": "Legendary",
+        "power": 52660
+    },
+    {
+        "number": 83,
+        "rarity": "Epic",
+        "power": 26280
+    },
+    {
+        "number": 84,
+        "rarity": "Epic",
+        "power": 26260
+    },
+    {
+        "number": 85,
+        "rarity": "Epic",
+        "power": 26240
+    },
+    {
+        "number": 86,
+        "rarity": "Epic",
+        "power": 26220
+    },
+    {
+        "number": 87,
+        "rarity": "Epic",
+        "power": 26200
+    },
+    {
+        "number": 88,
+        "rarity": "Epic",
+        "power": 26180
+    },
+    {
+        "number": 89,
+        "rarity": "Epic",
+        "power": 26160
+    },
+    {
+        "number": 90,
+        "rarity": "Epic",
+        "power": 26140
+    },
+    {
+        "number": 91,
+        "rarity": "Epic",
+        "power": 26120
+    },
+    {
+        "number": 92,
+        "rarity": "Epic",
+        "power": 26100
+    },
+    {
+        "number": 93,
+        "rarity": "Epic",
+        "power": 26080
+    },
+    {
+        "number": 94,
+        "rarity": "Epic",
+        "power": 26060
+    },
+    {
+        "number": 95,
+        "rarity": "Epic",
+        "power": 26040
+    },
+    {
+        "number": 96,
+        "rarity": "Epic",
+        "power": 26020
+    },
+    {
+        "number": 97,
+        "rarity": "Epic",
+        "power": 26000
+    },
+    {
+        "number": 98,
+        "rarity": "Epic",
+        "power": 25980
+    },
+    {
+        "number": 99,
+        "rarity": "Epic",
+        "power": 25960
+    },
+    {
+        "number": 100,
+        "rarity": "Epic",
+        "power": 25940
+    },
+    {
+        "number": 101,
+        "rarity": "Epic",
+        "power": 25920
+    },
+    {
+        "number": 102,
+        "rarity": "Epic",
+        "power": 25900
+    },
+    {
+        "number": 103,
+        "rarity": "Epic",
+        "power": 25880
+    },
+    {
+        "number": 104,
+        "rarity": "Epic",
+        "power": 25860
+    },
+    {
+        "number": 105,
+        "rarity": "Epic",
+        "power": 25840
+    },
+    {
+        "number": 106,
+        "rarity": "Epic",
+        "power": 25820
+    },
+    {
+        "number": 107,
+        "rarity": "Epic",
+        "power": 25800
+    },
+    {
+        "number": 108,
+        "rarity": "Epic",
+        "power": 25780
+    },
+    {
+        "number": 109,
+        "rarity": "Epic",
+        "power": 25760
+    },
+    {
+        "number": 110,
+        "rarity": "Epic",
+        "power": 25740
+    },
+    {
+        "number": 111,
+        "rarity": "Epic",
+        "power": 25720
+    },
+    {
+        "number": 112,
+        "rarity": "Epic",
+        "power": 25700
+    },
+    {
+        "number": 113,
+        "rarity": "Epic",
+        "power": 25680
+    },
+    {
+        "number": 114,
+        "rarity": "Epic",
+        "power": 25660
+    },
+    {
+        "number": 115,
+        "rarity": "Epic",
+        "power": 25640
+    },
+    {
+        "number": 116,
+        "rarity": "Epic",
+        "power": 25620
+    },
+    {
+        "number": 117,
+        "rarity": "Epic",
+        "power": 25600
+    },
+    {
+        "number": 118,
+        "rarity": "Epic",
+        "power": 25580
+    },
+    {
+        "number": 119,
+        "rarity": "Epic",
+        "power": 25560
+    },
+    {
+        "number": 120,
+        "rarity": "Epic",
+        "power": 25540
+    },
+    {
+        "number": 121,
+        "rarity": "Epic",
+        "power": 25520
+    },
+    {
+        "number": 122,
+        "rarity": "Epic",
+        "power": 25500
+    },
+    {
+        "number": 123,
+        "rarity": "Epic",
+        "power": 25480
+    },
+    {
+        "number": 124,
+        "rarity": "Epic",
+        "power": 25460
+    },
+    {
+        "number": 125,
+        "rarity": "Epic",
+        "power": 25440
+    },
+    {
+        "number": 126,
+        "rarity": "Epic",
+        "power": 25420
+    },
+    {
+        "number": 127,
+        "rarity": "Epic",
+        "power": 25400
+    },
+    {
+        "number": 128,
+        "rarity": "Epic",
+        "power": 25380
+    },
+    {
+        "number": 129,
+        "rarity": "Epic",
+        "power": 25360
+    },
+    {
+        "number": 130,
+        "rarity": "Epic",
+        "power": 25340
+    },
+    {
+        "number": 131,
+        "rarity": "Epic",
+        "power": 25320
+    },
+    {
+        "number": 132,
+        "rarity": "Epic",
+        "power": 25300
+    },
+    {
+        "number": 133,
+        "rarity": "Epic",
+        "power": 25280
+    },
+    {
+        "number": 134,
+        "rarity": "Epic",
+        "power": 25260
+    },
+    {
+        "number": 135,
+        "rarity": "Epic",
+        "power": 25240
+    },
+    {
+        "number": 136,
+        "rarity": "Epic",
+        "power": 25220
+    },
+    {
+        "number": 137,
+        "rarity": "Epic",
+        "power": 25200
+    },
+    {
+        "number": 138,
+        "rarity": "Epic",
+        "power": 25180
+    },
+    {
+        "number": 139,
+        "rarity": "Epic",
+        "power": 25160
+    },
+    {
+        "number": 140,
+        "rarity": "Epic",
+        "power": 25140
+    },
+    {
+        "number": 141,
+        "rarity": "Epic",
+        "power": 25120
+    },
+    {
+        "number": 142,
+        "rarity": "Epic",
+        "power": 25100
+    },
+    {
+        "number": 143,
+        "rarity": "Epic",
+        "power": 25080
+    },
+    {
+        "number": 144,
+        "rarity": "Epic",
+        "power": 25060
+    },
+    {
+        "number": 145,
+        "rarity": "Epic",
+        "power": 25040
+    },
+    {
+        "number": 146,
+        "rarity": "Epic",
+        "power": 25020
+    },
+    {
+        "number": 147,
+        "rarity": "Epic",
+        "power": 25000
+    },
+    {
+        "number": 148,
+        "rarity": "Epic",
+        "power": 24980
+    },
+    {
+        "number": 149,
+        "rarity": "Epic",
+        "power": 24960
+    },
+    {
+        "number": 150,
+        "rarity": "Epic",
+        "power": 24940
+    },
+    {
+        "number": 151,
+        "rarity": "Epic",
+        "power": 24920
+    },
+    {
+        "number": 152,
+        "rarity": "Epic",
+        "power": 24900
+    },
+    {
+        "number": 153,
+        "rarity": "Epic",
+        "power": 24880
+    },
+    {
+        "number": 154,
+        "rarity": "Epic",
+        "power": 24860
+    },
+    {
+        "number": 155,
+        "rarity": "Epic",
+        "power": 24840
+    },
+    {
+        "number": 156,
+        "rarity": "Epic",
+        "power": 24820
+    },
+    {
+        "number": 157,
+        "rarity": "Epic",
+        "power": 24800
+    },
+    {
+        "number": 158,
+        "rarity": "Epic",
+        "power": 24780
+    },
+    {
+        "number": 159,
+        "rarity": "Epic",
+        "power": 24760
+    },
+    {
+        "number": 160,
+        "rarity": "Epic",
+        "power": 24740
+    },
+    {
+        "number": 161,
+        "rarity": "Epic",
+        "power": 24720
+    },
+    {
+        "number": 162,
+        "rarity": "Epic",
+        "power": 24700
+    },
+    {
+        "number": 163,
+        "rarity": "Epic",
+        "power": 24680
+    },
+    {
+        "number": 164,
+        "rarity": "Epic",
+        "power": 24660
+    },
+    {
+        "number": 165,
+        "rarity": "Epic",
+        "power": 24640
+    },
+    {
+        "number": 166,
+        "rarity": "Epic",
+        "power": 24620
+    },
+    {
+        "number": 167,
+        "rarity": "Epic",
+        "power": 24600
+    },
+    {
+        "number": 168,
+        "rarity": "Epic",
+        "power": 24580
+    },
+    {
+        "number": 169,
+        "rarity": "Epic",
+        "power": 24560
+    },
+    {
+        "number": 170,
+        "rarity": "Epic",
+        "power": 24540
+    },
+    {
+        "number": 171,
+        "rarity": "Epic",
+        "power": 24520
+    },
+    {
+        "number": 172,
+        "rarity": "Epic",
+        "power": 24500
+    },
+    {
+        "number": 173,
+        "rarity": "Epic",
+        "power": 24480
+    },
+    {
+        "number": 174,
+        "rarity": "Epic",
+        "power": 24460
+    },
+    {
+        "number": 175,
+        "rarity": "Epic",
+        "power": 24440
+    },
+    {
+        "number": 176,
+        "rarity": "Epic",
+        "power": 24420
+    },
+    {
+        "number": 177,
+        "rarity": "Epic",
+        "power": 24400
+    },
+    {
+        "number": 178,
+        "rarity": "Epic",
+        "power": 24380
+    },
+    {
+        "number": 179,
+        "rarity": "Epic",
+        "power": 24360
+    },
+    {
+        "number": 180,
+        "rarity": "Epic",
+        "power": 24340
+    },
+    {
+        "number": 181,
+        "rarity": "Epic",
+        "power": 24320
+    },
+    {
+        "number": 182,
+        "rarity": "Epic",
+        "power": 24300
+    },
+    {
+        "number": 183,
+        "rarity": "Epic",
+        "power": 24280
+    },
+    {
+        "number": 184,
+        "rarity": "Epic",
+        "power": 24260
+    },
+    {
+        "number": 185,
+        "rarity": "Epic",
+        "power": 24240
+    },
+    {
+        "number": 186,
+        "rarity": "Epic",
+        "power": 24220
+    },
+    {
+        "number": 187,
+        "rarity": "Epic",
+        "power": 24200
+    },
+    {
+        "number": 188,
+        "rarity": "Epic",
+        "power": 24180
+    },
+    {
+        "number": 189,
+        "rarity": "Epic",
+        "power": 24160
+    },
+    {
+        "number": 190,
+        "rarity": "Epic",
+        "power": 24140
+    },
+    {
+        "number": 191,
+        "rarity": "Epic",
+        "power": 24120
+    },
+    {
+        "number": 192,
+        "rarity": "Epic",
+        "power": 24100
+    },
+    {
+        "number": 193,
+        "rarity": "Epic",
+        "power": 24080
+    },
+    {
+        "number": 194,
+        "rarity": "Epic",
+        "power": 24060
+    },
+    {
+        "number": 195,
+        "rarity": "Epic",
+        "power": 24040
+    },
+    {
+        "number": 196,
+        "rarity": "Epic",
+        "power": 24020
+    },
+    {
+        "number": 197,
+        "rarity": "Epic",
+        "power": 24000
+    },
+    {
+        "number": 198,
+        "rarity": "Epic",
+        "power": 23980
+    },
+    {
+        "number": 199,
+        "rarity": "Epic",
+        "power": 23960
+    },
+    {
+        "number": 200,
+        "rarity": "Epic",
+        "power": 23940
+    },
+    {
+        "number": 201,
+        "rarity": "Epic",
+        "power": 23920
+    },
+    {
+        "number": 202,
+        "rarity": "Epic",
+        "power": 23900
+    },
+    {
+        "number": 203,
+        "rarity": "Epic",
+        "power": 23880
+    },
+    {
+        "number": 204,
+        "rarity": "Epic",
+        "power": 23860
+    },
+    {
+        "number": 205,
+        "rarity": "Epic",
+        "power": 23840
+    },
+    {
+        "number": 206,
+        "rarity": "Epic",
+        "power": 23820
+    },
+    {
+        "number": 207,
+        "rarity": "Epic",
+        "power": 23800
+    },
+    {
+        "number": 208,
+        "rarity": "Epic",
+        "power": 23780
+    },
+    {
+        "number": 209,
+        "rarity": "Epic",
+        "power": 23760
+    },
+    {
+        "number": 210,
+        "rarity": "Epic",
+        "power": 23740
+    },
+    {
+        "number": 211,
+        "rarity": "Epic",
+        "power": 23720
+    },
+    {
+        "number": 212,
+        "rarity": "Epic",
+        "power": 23700
+    },
+    {
+        "number": 213,
+        "rarity": "Epic",
+        "power": 23680
+    },
+    {
+        "number": 214,
+        "rarity": "Epic",
+        "power": 23660
+    },
+    {
+        "number": 215,
+        "rarity": "Epic",
+        "power": 23640
+    },
+    {
+        "number": 216,
+        "rarity": "Epic",
+        "power": 23620
+    },
+    {
+        "number": 217,
+        "rarity": "Epic",
+        "power": 23600
+    },
+    {
+        "number": 218,
+        "rarity": "Epic",
+        "power": 23580
+    },
+    {
+        "number": 219,
+        "rarity": "Epic",
+        "power": 23560
+    },
+    {
+        "number": 220,
+        "rarity": "Epic",
+        "power": 23540
+    },
+    {
+        "number": 221,
+        "rarity": "Epic",
+        "power": 23520
+    },
+    {
+        "number": 222,
+        "rarity": "Epic",
+        "power": 23500
+    },
+    {
+        "number": 223,
+        "rarity": "Epic",
+        "power": 23480
+    },
+    {
+        "number": 224,
+        "rarity": "Epic",
+        "power": 23460
+    },
+    {
+        "number": 225,
+        "rarity": "Epic",
+        "power": 23440
+    },
+    {
+        "number": 226,
+        "rarity": "Epic",
+        "power": 23420
+    },
+    {
+        "number": 227,
+        "rarity": "Epic",
+        "power": 23400
+    },
+    {
+        "number": 228,
+        "rarity": "Epic",
+        "power": 23380
+    },
+    {
+        "number": 229,
+        "rarity": "Epic",
+        "power": 23360
+    },
+    {
+        "number": 230,
+        "rarity": "Epic",
+        "power": 23340
+    },
+    {
+        "number": 231,
+        "rarity": "Epic",
+        "power": 23320
+    },
+    {
+        "number": 232,
+        "rarity": "Epic",
+        "power": 23300
+    },
+    {
+        "number": 233,
+        "rarity": "Epic",
+        "power": 23280
+    },
+    {
+        "number": 234,
+        "rarity": "Epic",
+        "power": 23260
+    },
+    {
+        "number": 235,
+        "rarity": "Epic",
+        "power": 23240
+    },
+    {
+        "number": 236,
+        "rarity": "Epic",
+        "power": 23220
+    },
+    {
+        "number": 237,
+        "rarity": "Epic",
+        "power": 23200
+    },
+    {
+        "number": 238,
+        "rarity": "Epic",
+        "power": 23180
+    },
+    {
+        "number": 239,
+        "rarity": "Epic",
+        "power": 23160
+    },
+    {
+        "number": 240,
+        "rarity": "Epic",
+        "power": 23140
+    },
+    {
+        "number": 241,
+        "rarity": "Epic",
+        "power": 23120
+    },
+    {
+        "number": 242,
+        "rarity": "Epic",
+        "power": 23100
+    },
+    {
+        "number": 243,
+        "rarity": "Epic",
+        "power": 23080
+    },
+    {
+        "number": 244,
+        "rarity": "Epic",
+        "power": 23060
+    },
+    {
+        "number": 245,
+        "rarity": "Epic",
+        "power": 23040
+    },
+    {
+        "number": 246,
+        "rarity": "Rare",
+        "power": 11510
+    },
+    {
+        "number": 247,
+        "rarity": "Rare",
+        "power": 11500
+    },
+    {
+        "number": 248,
+        "rarity": "Rare",
+        "power": 11490
+    },
+    {
+        "number": 249,
+        "rarity": "Rare",
+        "power": 11480
+    },
+    {
+        "number": 250,
+        "rarity": "Rare",
+        "power": 11470
+    },
+    {
+        "number": 251,
+        "rarity": "Rare",
+        "power": 11460
+    },
+    {
+        "number": 252,
+        "rarity": "Rare",
+        "power": 11450
+    },
+    {
+        "number": 253,
+        "rarity": "Rare",
+        "power": 11440
+    },
+    {
+        "number": 254,
+        "rarity": "Rare",
+        "power": 11430
+    },
+    {
+        "number": 255,
+        "rarity": "Rare",
+        "power": 11420
+    },
+    {
+        "number": 256,
+        "rarity": "Rare",
+        "power": 11410
+    },
+    {
+        "number": 257,
+        "rarity": "Rare",
+        "power": 11400
+    },
+    {
+        "number": 258,
+        "rarity": "Rare",
+        "power": 11390
+    },
+    {
+        "number": 259,
+        "rarity": "Rare",
+        "power": 11380
+    },
+    {
+        "number": 260,
+        "rarity": "Rare",
+        "power": 11370
+    },
+    {
+        "number": 261,
+        "rarity": "Rare",
+        "power": 11360
+    },
+    {
+        "number": 262,
+        "rarity": "Rare",
+        "power": 11350
+    },
+    {
+        "number": 263,
+        "rarity": "Rare",
+        "power": 11340
+    },
+    {
+        "number": 264,
+        "rarity": "Rare",
+        "power": 11330
+    },
+    {
+        "number": 265,
+        "rarity": "Rare",
+        "power": 11320
+    },
+    {
+        "number": 266,
+        "rarity": "Rare",
+        "power": 11310
+    },
+    {
+        "number": 267,
+        "rarity": "Rare",
+        "power": 11300
+    },
+    {
+        "number": 268,
+        "rarity": "Rare",
+        "power": 11290
+    },
+    {
+        "number": 269,
+        "rarity": "Rare",
+        "power": 11280
+    },
+    {
+        "number": 270,
+        "rarity": "Rare",
+        "power": 11270
+    },
+    {
+        "number": 271,
+        "rarity": "Rare",
+        "power": 11260
+    },
+    {
+        "number": 272,
+        "rarity": "Rare",
+        "power": 11250
+    },
+    {
+        "number": 273,
+        "rarity": "Rare",
+        "power": 11240
+    },
+    {
+        "number": 274,
+        "rarity": "Rare",
+        "power": 11230
+    },
+    {
+        "number": 275,
+        "rarity": "Rare",
+        "power": 11220
+    },
+    {
+        "number": 276,
+        "rarity": "Rare",
+        "power": 11210
+    },
+    {
+        "number": 277,
+        "rarity": "Rare",
+        "power": 11200
+    },
+    {
+        "number": 278,
+        "rarity": "Rare",
+        "power": 11190
+    },
+    {
+        "number": 279,
+        "rarity": "Rare",
+        "power": 11180
+    },
+    {
+        "number": 280,
+        "rarity": "Rare",
+        "power": 11170
+    },
+    {
+        "number": 281,
+        "rarity": "Rare",
+        "power": 11160
+    },
+    {
+        "number": 282,
+        "rarity": "Rare",
+        "power": 11150
+    },
+    {
+        "number": 283,
+        "rarity": "Rare",
+        "power": 11140
+    },
+    {
+        "number": 284,
+        "rarity": "Rare",
+        "power": 11130
+    },
+    {
+        "number": 285,
+        "rarity": "Rare",
+        "power": 11120
+    },
+    {
+        "number": 286,
+        "rarity": "Rare",
+        "power": 11110
+    },
+    {
+        "number": 287,
+        "rarity": "Rare",
+        "power": 11100
+    },
+    {
+        "number": 288,
+        "rarity": "Rare",
+        "power": 11090
+    },
+    {
+        "number": 289,
+        "rarity": "Rare",
+        "power": 11080
+    },
+    {
+        "number": 290,
+        "rarity": "Rare",
+        "power": 11070
+    },
+    {
+        "number": 291,
+        "rarity": "Rare",
+        "power": 11060
+    },
+    {
+        "number": 292,
+        "rarity": "Rare",
+        "power": 11050
+    },
+    {
+        "number": 293,
+        "rarity": "Rare",
+        "power": 11040
+    },
+    {
+        "number": 294,
+        "rarity": "Rare",
+        "power": 11030
+    },
+    {
+        "number": 295,
+        "rarity": "Rare",
+        "power": 11020
+    },
+    {
+        "number": 296,
+        "rarity": "Rare",
+        "power": 11010
+    },
+    {
+        "number": 297,
+        "rarity": "Rare",
+        "power": 11000
+    },
+    {
+        "number": 298,
+        "rarity": "Rare",
+        "power": 10990
+    },
+    {
+        "number": 299,
+        "rarity": "Rare",
+        "power": 10980
+    },
+    {
+        "number": 300,
+        "rarity": "Rare",
+        "power": 10970
+    },
+    {
+        "number": 301,
+        "rarity": "Rare",
+        "power": 10960
+    },
+    {
+        "number": 302,
+        "rarity": "Rare",
+        "power": 10950
+    },
+    {
+        "number": 303,
+        "rarity": "Rare",
+        "power": 10940
+    },
+    {
+        "number": 304,
+        "rarity": "Rare",
+        "power": 10930
+    },
+    {
+        "number": 305,
+        "rarity": "Rare",
+        "power": 10920
+    },
+    {
+        "number": 306,
+        "rarity": "Rare",
+        "power": 10910
+    },
+    {
+        "number": 307,
+        "rarity": "Rare",
+        "power": 10900
+    },
+    {
+        "number": 308,
+        "rarity": "Rare",
+        "power": 10890
+    },
+    {
+        "number": 309,
+        "rarity": "Rare",
+        "power": 10880
+    },
+    {
+        "number": 310,
+        "rarity": "Rare",
+        "power": 10870
+    },
+    {
+        "number": 311,
+        "rarity": "Rare",
+        "power": 10860
+    },
+    {
+        "number": 312,
+        "rarity": "Rare",
+        "power": 10850
+    },
+    {
+        "number": 313,
+        "rarity": "Rare",
+        "power": 10840
+    },
+    {
+        "number": 314,
+        "rarity": "Rare",
+        "power": 10830
+    },
+    {
+        "number": 315,
+        "rarity": "Rare",
+        "power": 10820
+    },
+    {
+        "number": 316,
+        "rarity": "Rare",
+        "power": 10810
+    },
+    {
+        "number": 317,
+        "rarity": "Rare",
+        "power": 10800
+    },
+    {
+        "number": 318,
+        "rarity": "Rare",
+        "power": 10790
+    },
+    {
+        "number": 319,
+        "rarity": "Rare",
+        "power": 10780
+    },
+    {
+        "number": 320,
+        "rarity": "Rare",
+        "power": 10770
+    },
+    {
+        "number": 321,
+        "rarity": "Rare",
+        "power": 10760
+    },
+    {
+        "number": 322,
+        "rarity": "Rare",
+        "power": 10750
+    },
+    {
+        "number": 323,
+        "rarity": "Rare",
+        "power": 10740
+    },
+    {
+        "number": 324,
+        "rarity": "Rare",
+        "power": 10730
+    },
+    {
+        "number": 325,
+        "rarity": "Rare",
+        "power": 10720
+    },
+    {
+        "number": 326,
+        "rarity": "Rare",
+        "power": 10710
+    },
+    {
+        "number": 327,
+        "rarity": "Rare",
+        "power": 10700
+    },
+    {
+        "number": 328,
+        "rarity": "Rare",
+        "power": 10690
+    },
+    {
+        "number": 329,
+        "rarity": "Rare",
+        "power": 10680
+    },
+    {
+        "number": 330,
+        "rarity": "Rare",
+        "power": 10670
+    },
+    {
+        "number": 331,
+        "rarity": "Rare",
+        "power": 10660
+    },
+    {
+        "number": 332,
+        "rarity": "Rare",
+        "power": 10650
+    },
+    {
+        "number": 333,
+        "rarity": "Rare",
+        "power": 10640
+    },
+    {
+        "number": 334,
+        "rarity": "Rare",
+        "power": 10630
+    },
+    {
+        "number": 335,
+        "rarity": "Rare",
+        "power": 10620
+    },
+    {
+        "number": 336,
+        "rarity": "Rare",
+        "power": 10610
+    },
+    {
+        "number": 337,
+        "rarity": "Rare",
+        "power": 10600
+    },
+    {
+        "number": 338,
+        "rarity": "Rare",
+        "power": 10590
+    },
+    {
+        "number": 339,
+        "rarity": "Rare",
+        "power": 10580
+    },
+    {
+        "number": 340,
+        "rarity": "Rare",
+        "power": 10570
+    },
+    {
+        "number": 341,
+        "rarity": "Rare",
+        "power": 10560
+    },
+    {
+        "number": 342,
+        "rarity": "Rare",
+        "power": 10550
+    },
+    {
+        "number": 343,
+        "rarity": "Rare",
+        "power": 10540
+    },
+    {
+        "number": 344,
+        "rarity": "Rare",
+        "power": 10530
+    },
+    {
+        "number": 345,
+        "rarity": "Rare",
+        "power": 10520
+    },
+    {
+        "number": 346,
+        "rarity": "Rare",
+        "power": 10510
+    },
+    {
+        "number": 347,
+        "rarity": "Rare",
+        "power": 10500
+    },
+    {
+        "number": 348,
+        "rarity": "Rare",
+        "power": 10490
+    },
+    {
+        "number": 349,
+        "rarity": "Rare",
+        "power": 10480
+    },
+    {
+        "number": 350,
+        "rarity": "Rare",
+        "power": 10470
+    },
+    {
+        "number": 351,
+        "rarity": "Rare",
+        "power": 10460
+    },
+    {
+        "number": 352,
+        "rarity": "Rare",
+        "power": 10450
+    },
+    {
+        "number": 353,
+        "rarity": "Rare",
+        "power": 10440
+    },
+    {
+        "number": 354,
+        "rarity": "Rare",
+        "power": 10430
+    },
+    {
+        "number": 355,
+        "rarity": "Rare",
+        "power": 10420
+    },
+    {
+        "number": 356,
+        "rarity": "Rare",
+        "power": 10410
+    },
+    {
+        "number": 357,
+        "rarity": "Rare",
+        "power": 10400
+    },
+    {
+        "number": 358,
+        "rarity": "Rare",
+        "power": 10390
+    },
+    {
+        "number": 359,
+        "rarity": "Rare",
+        "power": 10380
+    },
+    {
+        "number": 360,
+        "rarity": "Rare",
+        "power": 10370
+    },
+    {
+        "number": 361,
+        "rarity": "Rare",
+        "power": 10360
+    },
+    {
+        "number": 362,
+        "rarity": "Rare",
+        "power": 10350
+    },
+    {
+        "number": 363,
+        "rarity": "Rare",
+        "power": 10340
+    },
+    {
+        "number": 364,
+        "rarity": "Rare",
+        "power": 10330
+    },
+    {
+        "number": 365,
+        "rarity": "Rare",
+        "power": 10320
+    },
+    {
+        "number": 366,
+        "rarity": "Rare",
+        "power": 10310
+    },
+    {
+        "number": 367,
+        "rarity": "Rare",
+        "power": 10300
+    },
+    {
+        "number": 368,
+        "rarity": "Rare",
+        "power": 10290
+    },
+    {
+        "number": 369,
+        "rarity": "Rare",
+        "power": 10280
+    },
+    {
+        "number": 370,
+        "rarity": "Rare",
+        "power": 10270
+    },
+    {
+        "number": 371,
+        "rarity": "Rare",
+        "power": 10260
+    },
+    {
+        "number": 372,
+        "rarity": "Rare",
+        "power": 10250
+    },
+    {
+        "number": 373,
+        "rarity": "Rare",
+        "power": 10240
+    },
+    {
+        "number": 374,
+        "rarity": "Rare",
+        "power": 10230
+    },
+    {
+        "number": 375,
+        "rarity": "Rare",
+        "power": 10220
+    },
+    {
+        "number": 376,
+        "rarity": "Rare",
+        "power": 10210
+    },
+    {
+        "number": 377,
+        "rarity": "Rare",
+        "power": 10200
+    },
+    {
+        "number": 378,
+        "rarity": "Rare",
+        "power": 10190
+    },
+    {
+        "number": 379,
+        "rarity": "Rare",
+        "power": 10180
+    },
+    {
+        "number": 380,
+        "rarity": "Rare",
+        "power": 10170
+    },
+    {
+        "number": 381,
+        "rarity": "Rare",
+        "power": 10160
+    },
+    {
+        "number": 382,
+        "rarity": "Rare",
+        "power": 10150
+    },
+    {
+        "number": 383,
+        "rarity": "Rare",
+        "power": 10140
+    },
+    {
+        "number": 384,
+        "rarity": "Rare",
+        "power": 10130
+    },
+    {
+        "number": 385,
+        "rarity": "Rare",
+        "power": 10120
+    },
+    {
+        "number": 386,
+        "rarity": "Rare",
+        "power": 10110
+    },
+    {
+        "number": 387,
+        "rarity": "Rare",
+        "power": 10100
+    },
+    {
+        "number": 388,
+        "rarity": "Rare",
+        "power": 10090
+    },
+    {
+        "number": 389,
+        "rarity": "Rare",
+        "power": 10080
+    },
+    {
+        "number": 390,
+        "rarity": "Rare",
+        "power": 10070
+    },
+    {
+        "number": 391,
+        "rarity": "Rare",
+        "power": 10060
+    },
+    {
+        "number": 392,
+        "rarity": "Rare",
+        "power": 10050
+    },
+    {
+        "number": 393,
+        "rarity": "Rare",
+        "power": 10040
+    },
+    {
+        "number": 394,
+        "rarity": "Rare",
+        "power": 10030
+    },
+    {
+        "number": 395,
+        "rarity": "Rare",
+        "power": 10020
+    },
+    {
+        "number": 396,
+        "rarity": "Rare",
+        "power": 10010
+    },
+    {
+        "number": 397,
+        "rarity": "Rare",
+        "power": 10000
+    },
+    {
+        "number": 398,
+        "rarity": "Rare",
+        "power": 9990
+    },
+    {
+        "number": 399,
+        "rarity": "Rare",
+        "power": 9980
+    },
+    {
+        "number": 400,
+        "rarity": "Rare",
+        "power": 9970
+    },
+    {
+        "number": 401,
+        "rarity": "Rare",
+        "power": 9960
+    },
+    {
+        "number": 402,
+        "rarity": "Rare",
+        "power": 9950
+    },
+    {
+        "number": 403,
+        "rarity": "Rare",
+        "power": 9940
+    },
+    {
+        "number": 404,
+        "rarity": "Rare",
+        "power": 9930
+    },
+    {
+        "number": 405,
+        "rarity": "Rare",
+        "power": 9920
+    },
+    {
+        "number": 406,
+        "rarity": "Rare",
+        "power": 9910
+    },
+    {
+        "number": 407,
+        "rarity": "Rare",
+        "power": 9900
+    },
+    {
+        "number": 408,
+        "rarity": "Rare",
+        "power": 9890
+    },
+    {
+        "number": 409,
+        "rarity": "Rare",
+        "power": 9880
+    },
+    {
+        "number": 410,
+        "rarity": "Rare",
+        "power": 9870
+    },
+    {
+        "number": 411,
+        "rarity": "Rare",
+        "power": 9860
+    },
+    {
+        "number": 412,
+        "rarity": "Rare",
+        "power": 9850
+    },
+    {
+        "number": 413,
+        "rarity": "Rare",
+        "power": 9840
+    },
+    {
+        "number": 414,
+        "rarity": "Rare",
+        "power": 9830
+    },
+    {
+        "number": 415,
+        "rarity": "Rare",
+        "power": 9820
+    },
+    {
+        "number": 416,
+        "rarity": "Rare",
+        "power": 9810
+    },
+    {
+        "number": 417,
+        "rarity": "Rare",
+        "power": 9800
+    },
+    {
+        "number": 418,
+        "rarity": "Rare",
+        "power": 9790
+    },
+    {
+        "number": 419,
+        "rarity": "Rare",
+        "power": 9780
+    },
+    {
+        "number": 420,
+        "rarity": "Rare",
+        "power": 9770
+    },
+    {
+        "number": 421,
+        "rarity": "Rare",
+        "power": 9760
+    },
+    {
+        "number": 422,
+        "rarity": "Rare",
+        "power": 9750
+    },
+    {
+        "number": 423,
+        "rarity": "Rare",
+        "power": 9740
+    },
+    {
+        "number": 424,
+        "rarity": "Rare",
+        "power": 9730
+    },
+    {
+        "number": 425,
+        "rarity": "Rare",
+        "power": 9720
+    },
+    {
+        "number": 426,
+        "rarity": "Rare",
+        "power": 9710
+    },
+    {
+        "number": 427,
+        "rarity": "Rare",
+        "power": 9700
+    },
+    {
+        "number": 428,
+        "rarity": "Rare",
+        "power": 9690
+    },
+    {
+        "number": 429,
+        "rarity": "Rare",
+        "power": 9680
+    },
+    {
+        "number": 430,
+        "rarity": "Rare",
+        "power": 9670
+    },
+    {
+        "number": 431,
+        "rarity": "Rare",
+        "power": 9660
+    },
+    {
+        "number": 432,
+        "rarity": "Rare",
+        "power": 9650
+    },
+    {
+        "number": 433,
+        "rarity": "Rare",
+        "power": 9640
+    },
+    {
+        "number": 434,
+        "rarity": "Rare",
+        "power": 9630
+    },
+    {
+        "number": 435,
+        "rarity": "Rare",
+        "power": 9620
+    },
+    {
+        "number": 436,
+        "rarity": "Rare",
+        "power": 9610
+    },
+    {
+        "number": 437,
+        "rarity": "Rare",
+        "power": 9600
+    },
+    {
+        "number": 438,
+        "rarity": "Rare",
+        "power": 9590
+    },
+    {
+        "number": 439,
+        "rarity": "Rare",
+        "power": 9580
+    },
+    {
+        "number": 440,
+        "rarity": "Rare",
+        "power": 9570
+    },
+    {
+        "number": 441,
+        "rarity": "Rare",
+        "power": 9560
+    },
+    {
+        "number": 442,
+        "rarity": "Rare",
+        "power": 9550
+    },
+    {
+        "number": 443,
+        "rarity": "Rare",
+        "power": 9540
+    },
+    {
+        "number": 444,
+        "rarity": "Rare",
+        "power": 9530
+    },
+    {
+        "number": 445,
+        "rarity": "Rare",
+        "power": 9520
+    },
+    {
+        "number": 446,
+        "rarity": "Rare",
+        "power": 9510
+    },
+    {
+        "number": 447,
+        "rarity": "Rare",
+        "power": 9500
+    },
+    {
+        "number": 448,
+        "rarity": "Rare",
+        "power": 9490
+    },
+    {
+        "number": 449,
+        "rarity": "Rare",
+        "power": 9480
+    },
+    {
+        "number": 450,
+        "rarity": "Rare",
+        "power": 9470
+    },
+    {
+        "number": 451,
+        "rarity": "Rare",
+        "power": 9460
+    },
+    {
+        "number": 452,
+        "rarity": "Rare",
+        "power": 9450
+    },
+    {
+        "number": 453,
+        "rarity": "Rare",
+        "power": 9440
+    },
+    {
+        "number": 454,
+        "rarity": "Rare",
+        "power": 9430
+    },
+    {
+        "number": 455,
+        "rarity": "Rare",
+        "power": 9420
+    },
+    {
+        "number": 456,
+        "rarity": "Rare",
+        "power": 9410
+    },
+    {
+        "number": 457,
+        "rarity": "Rare",
+        "power": 9400
+    },
+    {
+        "number": 458,
+        "rarity": "Rare",
+        "power": 9390
+    },
+    {
+        "number": 459,
+        "rarity": "Rare",
+        "power": 9380
+    },
+    {
+        "number": 460,
+        "rarity": "Rare",
+        "power": 9370
+    },
+    {
+        "number": 461,
+        "rarity": "Rare",
+        "power": 9360
+    },
+    {
+        "number": 462,
+        "rarity": "Rare",
+        "power": 9350
+    },
+    {
+        "number": 463,
+        "rarity": "Rare",
+        "power": 9340
+    },
+    {
+        "number": 464,
+        "rarity": "Rare",
+        "power": 9330
+    },
+    {
+        "number": 465,
+        "rarity": "Rare",
+        "power": 9320
+    },
+    {
+        "number": 466,
+        "rarity": "Rare",
+        "power": 9310
+    },
+    {
+        "number": 467,
+        "rarity": "Rare",
+        "power": 9300
+    },
+    {
+        "number": 468,
+        "rarity": "Rare",
+        "power": 9290
+    },
+    {
+        "number": 469,
+        "rarity": "Rare",
+        "power": 9280
+    },
+    {
+        "number": 470,
+        "rarity": "Rare",
+        "power": 9270
+    },
+    {
+        "number": 471,
+        "rarity": "Rare",
+        "power": 9260
+    },
+    {
+        "number": 472,
+        "rarity": "Rare",
+        "power": 9250
+    },
+    {
+        "number": 473,
+        "rarity": "Rare",
+        "power": 9240
+    },
+    {
+        "number": 474,
+        "rarity": "Rare",
+        "power": 9230
+    },
+    {
+        "number": 475,
+        "rarity": "Rare",
+        "power": 9220
+    },
+    {
+        "number": 476,
+        "rarity": "Rare",
+        "power": 9210
+    },
+    {
+        "number": 477,
+        "rarity": "Rare",
+        "power": 9200
+    },
+    {
+        "number": 478,
+        "rarity": "Rare",
+        "power": 9190
+    },
+    {
+        "number": 479,
+        "rarity": "Rare",
+        "power": 9180
+    },
+    {
+        "number": 480,
+        "rarity": "Rare",
+        "power": 9170
+    },
+    {
+        "number": 481,
+        "rarity": "Rare",
+        "power": 9160
+    },
+    {
+        "number": 482,
+        "rarity": "Rare",
+        "power": 9150
+    },
+    {
+        "number": 483,
+        "rarity": "Rare",
+        "power": 9140
+    },
+    {
+        "number": 484,
+        "rarity": "Rare",
+        "power": 9130
+    },
+    {
+        "number": 485,
+        "rarity": "Rare",
+        "power": 9120
+    },
+    {
+        "number": 486,
+        "rarity": "Rare",
+        "power": 9110
+    },
+    {
+        "number": 487,
+        "rarity": "Rare",
+        "power": 9100
+    },
+    {
+        "number": 488,
+        "rarity": "Rare",
+        "power": 9090
+    },
+    {
+        "number": 489,
+        "rarity": "Rare",
+        "power": 9080
+    },
+    {
+        "number": 490,
+        "rarity": "Rare",
+        "power": 9070
+    },
+    {
+        "number": 491,
+        "rarity": "Rare",
+        "power": 9060
+    },
+    {
+        "number": 492,
+        "rarity": "Rare",
+        "power": 9050
+    },
+    {
+        "number": 493,
+        "rarity": "Rare",
+        "power": 9040
+    },
+    {
+        "number": 494,
+        "rarity": "Rare",
+        "power": 9030
+    },
+    {
+        "number": 495,
+        "rarity": "Rare",
+        "power": 9020
+    },
+    {
+        "number": 496,
+        "rarity": "Rare",
+        "power": 9010
+    },
+    {
+        "number": 497,
+        "rarity": "Rare",
+        "power": 9000
+    },
+    {
+        "number": 498,
+        "rarity": "Rare",
+        "power": 8990
+    },
+    {
+        "number": 499,
+        "rarity": "Rare",
+        "power": 8980
+    },
+    {
+        "number": 500,
+        "rarity": "Rare",
+        "power": 8970
+    },
+    {
+        "number": 501,
+        "rarity": "Rare",
+        "power": 8960
+    },
+    {
+        "number": 502,
+        "rarity": "Rare",
+        "power": 8950
+    },
+    {
+        "number": 503,
+        "rarity": "Rare",
+        "power": 8940
+    },
+    {
+        "number": 504,
+        "rarity": "Rare",
+        "power": 8930
+    },
+    {
+        "number": 505,
+        "rarity": "Rare",
+        "power": 8920
+    },
+    {
+        "number": 506,
+        "rarity": "Rare",
+        "power": 8910
+    },
+    {
+        "number": 507,
+        "rarity": "Rare",
+        "power": 8900
+    },
+    {
+        "number": 508,
+        "rarity": "Rare",
+        "power": 8890
+    },
+    {
+        "number": 509,
+        "rarity": "Rare",
+        "power": 8880
+    },
+    {
+        "number": 510,
+        "rarity": "Rare",
+        "power": 8870
+    },
+    {
+        "number": 511,
+        "rarity": "Rare",
+        "power": 8860
+    },
+    {
+        "number": 512,
+        "rarity": "Rare",
+        "power": 8850
+    },
+    {
+        "number": 513,
+        "rarity": "Rare",
+        "power": 8840
+    },
+    {
+        "number": 514,
+        "rarity": "Rare",
+        "power": 8830
+    },
+    {
+        "number": 515,
+        "rarity": "Rare",
+        "power": 8820
+    },
+    {
+        "number": 516,
+        "rarity": "Rare",
+        "power": 8810
+    },
+    {
+        "number": 517,
+        "rarity": "Rare",
+        "power": 8800
+    },
+    {
+        "number": 518,
+        "rarity": "Rare",
+        "power": 8790
+    },
+    {
+        "number": 519,
+        "rarity": "Rare",
+        "power": 8780
+    },
+    {
+        "number": 520,
+        "rarity": "Rare",
+        "power": 8770
+    },
+    {
+        "number": 521,
+        "rarity": "Rare",
+        "power": 8760
+    },
+    {
+        "number": 522,
+        "rarity": "Rare",
+        "power": 8750
+    },
+    {
+        "number": 523,
+        "rarity": "Rare",
+        "power": 8740
+    },
+    {
+        "number": 524,
+        "rarity": "Rare",
+        "power": 8730
+    },
+    {
+        "number": 525,
+        "rarity": "Rare",
+        "power": 8720
+    },
+    {
+        "number": 526,
+        "rarity": "Rare",
+        "power": 8710
+    },
+    {
+        "number": 527,
+        "rarity": "Rare",
+        "power": 8700
+    },
+    {
+        "number": 528,
+        "rarity": "Rare",
+        "power": 8690
+    },
+    {
+        "number": 529,
+        "rarity": "Rare",
+        "power": 8680
+    },
+    {
+        "number": 530,
+        "rarity": "Rare",
+        "power": 8670
+    },
+    {
+        "number": 531,
+        "rarity": "Rare",
+        "power": 8660
+    },
+    {
+        "number": 532,
+        "rarity": "Rare",
+        "power": 8650
+    },
+    {
+        "number": 533,
+        "rarity": "Rare",
+        "power": 8640
+    },
+    {
+        "number": 534,
+        "rarity": "Rare",
+        "power": 8630
+    },
+    {
+        "number": 535,
+        "rarity": "Rare",
+        "power": 8620
+    },
+    {
+        "number": 536,
+        "rarity": "Rare",
+        "power": 8610
+    },
+    {
+        "number": 537,
+        "rarity": "Rare",
+        "power": 8600
+    },
+    {
+        "number": 538,
+        "rarity": "Rare",
+        "power": 8590
+    },
+    {
+        "number": 539,
+        "rarity": "Rare",
+        "power": 8580
+    },
+    {
+        "number": 540,
+        "rarity": "Rare",
+        "power": 8570
+    },
+    {
+        "number": 541,
+        "rarity": "Rare",
+        "power": 8560
+    },
+    {
+        "number": 542,
+        "rarity": "Rare",
+        "power": 8550
+    },
+    {
+        "number": 543,
+        "rarity": "Rare",
+        "power": 8540
+    },
+    {
+        "number": 544,
+        "rarity": "Rare",
+        "power": 8530
+    },
+    {
+        "number": 545,
+        "rarity": "Rare",
+        "power": 8520
+    },
+    {
+        "number": 546,
+        "rarity": "Rare",
+        "power": 8510
+    },
+    {
+        "number": 547,
+        "rarity": "Rare",
+        "power": 8500
+    },
+    {
+        "number": 548,
+        "rarity": "Rare",
+        "power": 8490
+    },
+    {
+        "number": 549,
+        "rarity": "Rare",
+        "power": 8480
+    },
+    {
+        "number": 550,
+        "rarity": "Rare",
+        "power": 8470
+    },
+    {
+        "number": 551,
+        "rarity": "Rare",
+        "power": 8460
+    },
+    {
+        "number": 552,
+        "rarity": "Rare",
+        "power": 8450
+    },
+    {
+        "number": 553,
+        "rarity": "Rare",
+        "power": 8440
+    },
+    {
+        "number": 554,
+        "rarity": "Rare",
+        "power": 8430
+    },
+    {
+        "number": 555,
+        "rarity": "Rare",
+        "power": 8420
+    },
+    {
+        "number": 556,
+        "rarity": "Rare",
+        "power": 8410
+    },
+    {
+        "number": 557,
+        "rarity": "Rare",
+        "power": 8400
+    },
+    {
+        "number": 558,
+        "rarity": "Rare",
+        "power": 8390
+    },
+    {
+        "number": 559,
+        "rarity": "Rare",
+        "power": 8380
+    },
+    {
+        "number": 560,
+        "rarity": "Rare",
+        "power": 8370
+    },
+    {
+        "number": 561,
+        "rarity": "Rare",
+        "power": 8360
+    },
+    {
+        "number": 562,
+        "rarity": "Rare",
+        "power": 8350
+    },
+    {
+        "number": 563,
+        "rarity": "Rare",
+        "power": 8340
+    },
+    {
+        "number": 564,
+        "rarity": "Rare",
+        "power": 8330
+    },
+    {
+        "number": 565,
+        "rarity": "Rare",
+        "power": 8320
+    },
+    {
+        "number": 566,
+        "rarity": "Rare",
+        "power": 8310
+    },
+    {
+        "number": 567,
+        "rarity": "Rare",
+        "power": 8300
+    },
+    {
+        "number": 568,
+        "rarity": "Rare",
+        "power": 8290
+    },
+    {
+        "number": 569,
+        "rarity": "Rare",
+        "power": 8280
+    },
+    {
+        "number": 570,
+        "rarity": "Rare",
+        "power": 8270
+    },
+    {
+        "number": 571,
+        "rarity": "Rare",
+        "power": 8260
+    },
+    {
+        "number": 572,
+        "rarity": "Rare",
+        "power": 8250
+    },
+    {
+        "number": 573,
+        "rarity": "Uncommon",
+        "power": 4120
+    },
+    {
+        "number": 574,
+        "rarity": "Uncommon",
+        "power": 4118
+    },
+    {
+        "number": 575,
+        "rarity": "Uncommon",
+        "power": 4116
+    },
+    {
+        "number": 576,
+        "rarity": "Uncommon",
+        "power": 4114
+    },
+    {
+        "number": 577,
+        "rarity": "Uncommon",
+        "power": 4112
+    },
+    {
+        "number": 578,
+        "rarity": "Uncommon",
+        "power": 4110
+    },
+    {
+        "number": 579,
+        "rarity": "Uncommon",
+        "power": 4108
+    },
+    {
+        "number": 580,
+        "rarity": "Uncommon",
+        "power": 4106
+    },
+    {
+        "number": 581,
+        "rarity": "Uncommon",
+        "power": 4104
+    },
+    {
+        "number": 582,
+        "rarity": "Uncommon",
+        "power": 4102
+    },
+    {
+        "number": 583,
+        "rarity": "Uncommon",
+        "power": 4100
+    },
+    {
+        "number": 584,
+        "rarity": "Uncommon",
+        "power": 4098
+    },
+    {
+        "number": 585,
+        "rarity": "Uncommon",
+        "power": 4096
+    },
+    {
+        "number": 586,
+        "rarity": "Uncommon",
+        "power": 4094
+    },
+    {
+        "number": 587,
+        "rarity": "Uncommon",
+        "power": 4092
+    },
+    {
+        "number": 588,
+        "rarity": "Uncommon",
+        "power": 4090
+    },
+    {
+        "number": 589,
+        "rarity": "Uncommon",
+        "power": 4088
+    },
+    {
+        "number": 590,
+        "rarity": "Uncommon",
+        "power": 4086
+    },
+    {
+        "number": 591,
+        "rarity": "Uncommon",
+        "power": 4084
+    },
+    {
+        "number": 592,
+        "rarity": "Uncommon",
+        "power": 4082
+    },
+    {
+        "number": 593,
+        "rarity": "Uncommon",
+        "power": 4080
+    },
+    {
+        "number": 594,
+        "rarity": "Uncommon",
+        "power": 4078
+    },
+    {
+        "number": 595,
+        "rarity": "Uncommon",
+        "power": 4076
+    },
+    {
+        "number": 596,
+        "rarity": "Uncommon",
+        "power": 4074
+    },
+    {
+        "number": 597,
+        "rarity": "Uncommon",
+        "power": 4072
+    },
+    {
+        "number": 598,
+        "rarity": "Uncommon",
+        "power": 4070
+    },
+    {
+        "number": 599,
+        "rarity": "Uncommon",
+        "power": 4068
+    },
+    {
+        "number": 600,
+        "rarity": "Uncommon",
+        "power": 4066
+    },
+    {
+        "number": 601,
+        "rarity": "Uncommon",
+        "power": 4064
+    },
+    {
+        "number": 602,
+        "rarity": "Uncommon",
+        "power": 4062
+    },
+    {
+        "number": 603,
+        "rarity": "Uncommon",
+        "power": 4060
+    },
+    {
+        "number": 604,
+        "rarity": "Uncommon",
+        "power": 4058
+    },
+    {
+        "number": 605,
+        "rarity": "Uncommon",
+        "power": 4056
+    },
+    {
+        "number": 606,
+        "rarity": "Uncommon",
+        "power": 4054
+    },
+    {
+        "number": 607,
+        "rarity": "Uncommon",
+        "power": 4052
+    },
+    {
+        "number": 608,
+        "rarity": "Uncommon",
+        "power": 4050
+    },
+    {
+        "number": 609,
+        "rarity": "Uncommon",
+        "power": 4048
+    },
+    {
+        "number": 610,
+        "rarity": "Uncommon",
+        "power": 4046
+    },
+    {
+        "number": 611,
+        "rarity": "Uncommon",
+        "power": 4044
+    },
+    {
+        "number": 612,
+        "rarity": "Uncommon",
+        "power": 4042
+    },
+    {
+        "number": 613,
+        "rarity": "Uncommon",
+        "power": 4040
+    },
+    {
+        "number": 614,
+        "rarity": "Uncommon",
+        "power": 4038
+    },
+    {
+        "number": 615,
+        "rarity": "Uncommon",
+        "power": 4036
+    },
+    {
+        "number": 616,
+        "rarity": "Uncommon",
+        "power": 4034
+    },
+    {
+        "number": 617,
+        "rarity": "Uncommon",
+        "power": 4032
+    },
+    {
+        "number": 618,
+        "rarity": "Uncommon",
+        "power": 4030
+    },
+    {
+        "number": 619,
+        "rarity": "Uncommon",
+        "power": 4028
+    },
+    {
+        "number": 620,
+        "rarity": "Uncommon",
+        "power": 4026
+    },
+    {
+        "number": 621,
+        "rarity": "Uncommon",
+        "power": 4024
+    },
+    {
+        "number": 622,
+        "rarity": "Uncommon",
+        "power": 4022
+    },
+    {
+        "number": 623,
+        "rarity": "Uncommon",
+        "power": 4020
+    },
+    {
+        "number": 624,
+        "rarity": "Uncommon",
+        "power": 4018
+    },
+    {
+        "number": 625,
+        "rarity": "Uncommon",
+        "power": 4016
+    },
+    {
+        "number": 626,
+        "rarity": "Uncommon",
+        "power": 4014
+    },
+    {
+        "number": 627,
+        "rarity": "Uncommon",
+        "power": 4012
+    },
+    {
+        "number": 628,
+        "rarity": "Uncommon",
+        "power": 4010
+    },
+    {
+        "number": 629,
+        "rarity": "Uncommon",
+        "power": 4008
+    },
+    {
+        "number": 630,
+        "rarity": "Uncommon",
+        "power": 4006
+    },
+    {
+        "number": 631,
+        "rarity": "Uncommon",
+        "power": 4004
+    },
+    {
+        "number": 632,
+        "rarity": "Uncommon",
+        "power": 4002
+    },
+    {
+        "number": 633,
+        "rarity": "Uncommon",
+        "power": 4000
+    },
+    {
+        "number": 634,
+        "rarity": "Uncommon",
+        "power": 3998
+    },
+    {
+        "number": 635,
+        "rarity": "Uncommon",
+        "power": 3996
+    },
+    {
+        "number": 636,
+        "rarity": "Uncommon",
+        "power": 3994
+    },
+    {
+        "number": 637,
+        "rarity": "Uncommon",
+        "power": 3992
+    },
+    {
+        "number": 638,
+        "rarity": "Uncommon",
+        "power": 3990
+    },
+    {
+        "number": 639,
+        "rarity": "Uncommon",
+        "power": 3988
+    },
+    {
+        "number": 640,
+        "rarity": "Uncommon",
+        "power": 3986
+    },
+    {
+        "number": 641,
+        "rarity": "Uncommon",
+        "power": 3984
+    },
+    {
+        "number": 642,
+        "rarity": "Uncommon",
+        "power": 3982
+    },
+    {
+        "number": 643,
+        "rarity": "Uncommon",
+        "power": 3980
+    },
+    {
+        "number": 644,
+        "rarity": "Uncommon",
+        "power": 3978
+    },
+    {
+        "number": 645,
+        "rarity": "Uncommon",
+        "power": 3976
+    },
+    {
+        "number": 646,
+        "rarity": "Uncommon",
+        "power": 3974
+    },
+    {
+        "number": 647,
+        "rarity": "Uncommon",
+        "power": 3972
+    },
+    {
+        "number": 648,
+        "rarity": "Uncommon",
+        "power": 3970
+    },
+    {
+        "number": 649,
+        "rarity": "Uncommon",
+        "power": 3968
+    },
+    {
+        "number": 650,
+        "rarity": "Uncommon",
+        "power": 3966
+    },
+    {
+        "number": 651,
+        "rarity": "Uncommon",
+        "power": 3964
+    },
+    {
+        "number": 652,
+        "rarity": "Uncommon",
+        "power": 3962
+    },
+    {
+        "number": 653,
+        "rarity": "Uncommon",
+        "power": 3960
+    },
+    {
+        "number": 654,
+        "rarity": "Uncommon",
+        "power": 3958
+    },
+    {
+        "number": 655,
+        "rarity": "Uncommon",
+        "power": 3956
+    },
+    {
+        "number": 656,
+        "rarity": "Uncommon",
+        "power": 3954
+    },
+    {
+        "number": 657,
+        "rarity": "Uncommon",
+        "power": 3952
+    },
+    {
+        "number": 658,
+        "rarity": "Uncommon",
+        "power": 3950
+    },
+    {
+        "number": 659,
+        "rarity": "Uncommon",
+        "power": 3948
+    },
+    {
+        "number": 660,
+        "rarity": "Uncommon",
+        "power": 3946
+    },
+    {
+        "number": 661,
+        "rarity": "Uncommon",
+        "power": 3944
+    },
+    {
+        "number": 662,
+        "rarity": "Uncommon",
+        "power": 3942
+    },
+    {
+        "number": 663,
+        "rarity": "Uncommon",
+        "power": 3940
+    },
+    {
+        "number": 664,
+        "rarity": "Uncommon",
+        "power": 3938
+    },
+    {
+        "number": 665,
+        "rarity": "Uncommon",
+        "power": 3936
+    },
+    {
+        "number": 666,
+        "rarity": "Uncommon",
+        "power": 3934
+    },
+    {
+        "number": 667,
+        "rarity": "Uncommon",
+        "power": 3932
+    },
+    {
+        "number": 668,
+        "rarity": "Uncommon",
+        "power": 3930
+    },
+    {
+        "number": 669,
+        "rarity": "Uncommon",
+        "power": 3928
+    },
+    {
+        "number": 670,
+        "rarity": "Uncommon",
+        "power": 3926
+    },
+    {
+        "number": 671,
+        "rarity": "Uncommon",
+        "power": 3924
+    },
+    {
+        "number": 672,
+        "rarity": "Uncommon",
+        "power": 3922
+    },
+    {
+        "number": 673,
+        "rarity": "Uncommon",
+        "power": 3920
+    },
+    {
+        "number": 674,
+        "rarity": "Uncommon",
+        "power": 3918
+    },
+    {
+        "number": 675,
+        "rarity": "Uncommon",
+        "power": 3916
+    },
+    {
+        "number": 676,
+        "rarity": "Uncommon",
+        "power": 3914
+    },
+    {
+        "number": 677,
+        "rarity": "Uncommon",
+        "power": 3912
+    },
+    {
+        "number": 678,
+        "rarity": "Uncommon",
+        "power": 3910
+    },
+    {
+        "number": 679,
+        "rarity": "Uncommon",
+        "power": 3908
+    },
+    {
+        "number": 680,
+        "rarity": "Uncommon",
+        "power": 3906
+    },
+    {
+        "number": 681,
+        "rarity": "Uncommon",
+        "power": 3904
+    },
+    {
+        "number": 682,
+        "rarity": "Uncommon",
+        "power": 3902
+    },
+    {
+        "number": 683,
+        "rarity": "Uncommon",
+        "power": 3900
+    },
+    {
+        "number": 684,
+        "rarity": "Uncommon",
+        "power": 3898
+    },
+    {
+        "number": 685,
+        "rarity": "Uncommon",
+        "power": 3896
+    },
+    {
+        "number": 686,
+        "rarity": "Uncommon",
+        "power": 3894
+    },
+    {
+        "number": 687,
+        "rarity": "Uncommon",
+        "power": 3892
+    },
+    {
+        "number": 688,
+        "rarity": "Uncommon",
+        "power": 3890
+    },
+    {
+        "number": 689,
+        "rarity": "Uncommon",
+        "power": 3888
+    },
+    {
+        "number": 690,
+        "rarity": "Uncommon",
+        "power": 3886
+    },
+    {
+        "number": 691,
+        "rarity": "Uncommon",
+        "power": 3884
+    },
+    {
+        "number": 692,
+        "rarity": "Uncommon",
+        "power": 3882
+    },
+    {
+        "number": 693,
+        "rarity": "Uncommon",
+        "power": 3880
+    },
+    {
+        "number": 694,
+        "rarity": "Uncommon",
+        "power": 3878
+    },
+    {
+        "number": 695,
+        "rarity": "Uncommon",
+        "power": 3876
+    },
+    {
+        "number": 696,
+        "rarity": "Uncommon",
+        "power": 3874
+    },
+    {
+        "number": 697,
+        "rarity": "Uncommon",
+        "power": 3872
+    },
+    {
+        "number": 698,
+        "rarity": "Uncommon",
+        "power": 3870
+    },
+    {
+        "number": 699,
+        "rarity": "Uncommon",
+        "power": 3868
+    },
+    {
+        "number": 700,
+        "rarity": "Uncommon",
+        "power": 3866
+    },
+    {
+        "number": 701,
+        "rarity": "Uncommon",
+        "power": 3864
+    },
+    {
+        "number": 702,
+        "rarity": "Uncommon",
+        "power": 3862
+    },
+    {
+        "number": 703,
+        "rarity": "Uncommon",
+        "power": 3860
+    },
+    {
+        "number": 704,
+        "rarity": "Uncommon",
+        "power": 3858
+    },
+    {
+        "number": 705,
+        "rarity": "Uncommon",
+        "power": 3856
+    },
+    {
+        "number": 706,
+        "rarity": "Uncommon",
+        "power": 3854
+    },
+    {
+        "number": 707,
+        "rarity": "Uncommon",
+        "power": 3852
+    },
+    {
+        "number": 708,
+        "rarity": "Uncommon",
+        "power": 3850
+    },
+    {
+        "number": 709,
+        "rarity": "Uncommon",
+        "power": 3848
+    },
+    {
+        "number": 710,
+        "rarity": "Uncommon",
+        "power": 3846
+    },
+    {
+        "number": 711,
+        "rarity": "Uncommon",
+        "power": 3844
+    },
+    {
+        "number": 712,
+        "rarity": "Uncommon",
+        "power": 3842
+    },
+    {
+        "number": 713,
+        "rarity": "Uncommon",
+        "power": 3840
+    },
+    {
+        "number": 714,
+        "rarity": "Uncommon",
+        "power": 3838
+    },
+    {
+        "number": 715,
+        "rarity": "Uncommon",
+        "power": 3836
+    },
+    {
+        "number": 716,
+        "rarity": "Uncommon",
+        "power": 3834
+    },
+    {
+        "number": 717,
+        "rarity": "Uncommon",
+        "power": 3832
+    },
+    {
+        "number": 718,
+        "rarity": "Uncommon",
+        "power": 3830
+    },
+    {
+        "number": 719,
+        "rarity": "Uncommon",
+        "power": 3828
+    },
+    {
+        "number": 720,
+        "rarity": "Uncommon",
+        "power": 3826
+    },
+    {
+        "number": 721,
+        "rarity": "Uncommon",
+        "power": 3824
+    },
+    {
+        "number": 722,
+        "rarity": "Uncommon",
+        "power": 3822
+    },
+    {
+        "number": 723,
+        "rarity": "Uncommon",
+        "power": 3820
+    },
+    {
+        "number": 724,
+        "rarity": "Uncommon",
+        "power": 3818
+    },
+    {
+        "number": 725,
+        "rarity": "Uncommon",
+        "power": 3816
+    },
+    {
+        "number": 726,
+        "rarity": "Uncommon",
+        "power": 3814
+    },
+    {
+        "number": 727,
+        "rarity": "Uncommon",
+        "power": 3812
+    },
+    {
+        "number": 728,
+        "rarity": "Uncommon",
+        "power": 3810
+    },
+    {
+        "number": 729,
+        "rarity": "Uncommon",
+        "power": 3808
+    },
+    {
+        "number": 730,
+        "rarity": "Uncommon",
+        "power": 3806
+    },
+    {
+        "number": 731,
+        "rarity": "Uncommon",
+        "power": 3804
+    },
+    {
+        "number": 732,
+        "rarity": "Uncommon",
+        "power": 3802
+    },
+    {
+        "number": 733,
+        "rarity": "Uncommon",
+        "power": 3800
+    },
+    {
+        "number": 734,
+        "rarity": "Uncommon",
+        "power": 3798
+    },
+    {
+        "number": 735,
+        "rarity": "Uncommon",
+        "power": 3796
+    },
+    {
+        "number": 736,
+        "rarity": "Uncommon",
+        "power": 3794
+    },
+    {
+        "number": 737,
+        "rarity": "Uncommon",
+        "power": 3792
+    },
+    {
+        "number": 738,
+        "rarity": "Uncommon",
+        "power": 3790
+    },
+    {
+        "number": 739,
+        "rarity": "Uncommon",
+        "power": 3788
+    },
+    {
+        "number": 740,
+        "rarity": "Uncommon",
+        "power": 3786
+    },
+    {
+        "number": 741,
+        "rarity": "Uncommon",
+        "power": 3784
+    },
+    {
+        "number": 742,
+        "rarity": "Uncommon",
+        "power": 3782
+    },
+    {
+        "number": 743,
+        "rarity": "Uncommon",
+        "power": 3780
+    },
+    {
+        "number": 744,
+        "rarity": "Uncommon",
+        "power": 3778
+    },
+    {
+        "number": 745,
+        "rarity": "Uncommon",
+        "power": 3776
+    },
+    {
+        "number": 746,
+        "rarity": "Uncommon",
+        "power": 3774
+    },
+    {
+        "number": 747,
+        "rarity": "Uncommon",
+        "power": 3772
+    },
+    {
+        "number": 748,
+        "rarity": "Uncommon",
+        "power": 3770
+    },
+    {
+        "number": 749,
+        "rarity": "Uncommon",
+        "power": 3768
+    },
+    {
+        "number": 750,
+        "rarity": "Uncommon",
+        "power": 3766
+    },
+    {
+        "number": 751,
+        "rarity": "Uncommon",
+        "power": 3764
+    },
+    {
+        "number": 752,
+        "rarity": "Uncommon",
+        "power": 3762
+    },
+    {
+        "number": 753,
+        "rarity": "Uncommon",
+        "power": 3760
+    },
+    {
+        "number": 754,
+        "rarity": "Uncommon",
+        "power": 3758
+    },
+    {
+        "number": 755,
+        "rarity": "Uncommon",
+        "power": 3756
+    },
+    {
+        "number": 756,
+        "rarity": "Uncommon",
+        "power": 3754
+    },
+    {
+        "number": 757,
+        "rarity": "Uncommon",
+        "power": 3752
+    },
+    {
+        "number": 758,
+        "rarity": "Uncommon",
+        "power": 3750
+    },
+    {
+        "number": 759,
+        "rarity": "Uncommon",
+        "power": 3748
+    },
+    {
+        "number": 760,
+        "rarity": "Uncommon",
+        "power": 3746
+    },
+    {
+        "number": 761,
+        "rarity": "Uncommon",
+        "power": 3744
+    },
+    {
+        "number": 762,
+        "rarity": "Uncommon",
+        "power": 3742
+    },
+    {
+        "number": 763,
+        "rarity": "Uncommon",
+        "power": 3740
+    },
+    {
+        "number": 764,
+        "rarity": "Uncommon",
+        "power": 3738
+    },
+    {
+        "number": 765,
+        "rarity": "Uncommon",
+        "power": 3736
+    },
+    {
+        "number": 766,
+        "rarity": "Uncommon",
+        "power": 3734
+    },
+    {
+        "number": 767,
+        "rarity": "Uncommon",
+        "power": 3732
+    },
+    {
+        "number": 768,
+        "rarity": "Uncommon",
+        "power": 3730
+    },
+    {
+        "number": 769,
+        "rarity": "Uncommon",
+        "power": 3728
+    },
+    {
+        "number": 770,
+        "rarity": "Uncommon",
+        "power": 3726
+    },
+    {
+        "number": 771,
+        "rarity": "Uncommon",
+        "power": 3724
+    },
+    {
+        "number": 772,
+        "rarity": "Uncommon",
+        "power": 3722
+    },
+    {
+        "number": 773,
+        "rarity": "Uncommon",
+        "power": 3720
+    },
+    {
+        "number": 774,
+        "rarity": "Uncommon",
+        "power": 3718
+    },
+    {
+        "number": 775,
+        "rarity": "Uncommon",
+        "power": 3716
+    },
+    {
+        "number": 776,
+        "rarity": "Uncommon",
+        "power": 3714
+    },
+    {
+        "number": 777,
+        "rarity": "Uncommon",
+        "power": 3712
+    },
+    {
+        "number": 778,
+        "rarity": "Uncommon",
+        "power": 3710
+    },
+    {
+        "number": 779,
+        "rarity": "Uncommon",
+        "power": 3708
+    },
+    {
+        "number": 780,
+        "rarity": "Uncommon",
+        "power": 3706
+    },
+    {
+        "number": 781,
+        "rarity": "Uncommon",
+        "power": 3704
+    },
+    {
+        "number": 782,
+        "rarity": "Uncommon",
+        "power": 3702
+    },
+    {
+        "number": 783,
+        "rarity": "Uncommon",
+        "power": 3700
+    },
+    {
+        "number": 784,
+        "rarity": "Uncommon",
+        "power": 3698
+    },
+    {
+        "number": 785,
+        "rarity": "Uncommon",
+        "power": 3696
+    },
+    {
+        "number": 786,
+        "rarity": "Uncommon",
+        "power": 3694
+    },
+    {
+        "number": 787,
+        "rarity": "Uncommon",
+        "power": 3692
+    },
+    {
+        "number": 788,
+        "rarity": "Uncommon",
+        "power": 3690
+    },
+    {
+        "number": 789,
+        "rarity": "Uncommon",
+        "power": 3688
+    },
+    {
+        "number": 790,
+        "rarity": "Uncommon",
+        "power": 3686
+    },
+    {
+        "number": 791,
+        "rarity": "Uncommon",
+        "power": 3684
+    },
+    {
+        "number": 792,
+        "rarity": "Uncommon",
+        "power": 3682
+    },
+    {
+        "number": 793,
+        "rarity": "Uncommon",
+        "power": 3680
+    },
+    {
+        "number": 794,
+        "rarity": "Uncommon",
+        "power": 3678
+    },
+    {
+        "number": 795,
+        "rarity": "Uncommon",
+        "power": 3676
+    },
+    {
+        "number": 796,
+        "rarity": "Uncommon",
+        "power": 3674
+    },
+    {
+        "number": 797,
+        "rarity": "Uncommon",
+        "power": 3672
+    },
+    {
+        "number": 798,
+        "rarity": "Uncommon",
+        "power": 3670
+    },
+    {
+        "number": 799,
+        "rarity": "Uncommon",
+        "power": 3668
+    },
+    {
+        "number": 800,
+        "rarity": "Uncommon",
+        "power": 3666
+    },
+    {
+        "number": 801,
+        "rarity": "Uncommon",
+        "power": 3664
+    },
+    {
+        "number": 802,
+        "rarity": "Uncommon",
+        "power": 3662
+    },
+    {
+        "number": 803,
+        "rarity": "Uncommon",
+        "power": 3660
+    },
+    {
+        "number": 804,
+        "rarity": "Uncommon",
+        "power": 3658
+    },
+    {
+        "number": 805,
+        "rarity": "Uncommon",
+        "power": 3656
+    },
+    {
+        "number": 806,
+        "rarity": "Uncommon",
+        "power": 3654
+    },
+    {
+        "number": 807,
+        "rarity": "Uncommon",
+        "power": 3652
+    },
+    {
+        "number": 808,
+        "rarity": "Uncommon",
+        "power": 3650
+    },
+    {
+        "number": 809,
+        "rarity": "Uncommon",
+        "power": 3648
+    },
+    {
+        "number": 810,
+        "rarity": "Uncommon",
+        "power": 3646
+    },
+    {
+        "number": 811,
+        "rarity": "Uncommon",
+        "power": 3644
+    },
+    {
+        "number": 812,
+        "rarity": "Uncommon",
+        "power": 3642
+    },
+    {
+        "number": 813,
+        "rarity": "Uncommon",
+        "power": 3640
+    },
+    {
+        "number": 814,
+        "rarity": "Uncommon",
+        "power": 3638
+    },
+    {
+        "number": 815,
+        "rarity": "Uncommon",
+        "power": 3636
+    },
+    {
+        "number": 816,
+        "rarity": "Uncommon",
+        "power": 3634
+    },
+    {
+        "number": 817,
+        "rarity": "Uncommon",
+        "power": 3632
+    },
+    {
+        "number": 818,
+        "rarity": "Uncommon",
+        "power": 3630
+    },
+    {
+        "number": 819,
+        "rarity": "Uncommon",
+        "power": 3628
+    },
+    {
+        "number": 820,
+        "rarity": "Uncommon",
+        "power": 3626
+    },
+    {
+        "number": 821,
+        "rarity": "Uncommon",
+        "power": 3624
+    },
+    {
+        "number": 822,
+        "rarity": "Uncommon",
+        "power": 3622
+    },
+    {
+        "number": 823,
+        "rarity": "Uncommon",
+        "power": 3620
+    },
+    {
+        "number": 824,
+        "rarity": "Uncommon",
+        "power": 3618
+    },
+    {
+        "number": 825,
+        "rarity": "Uncommon",
+        "power": 3616
+    },
+    {
+        "number": 826,
+        "rarity": "Uncommon",
+        "power": 3614
+    },
+    {
+        "number": 827,
+        "rarity": "Uncommon",
+        "power": 3612
+    },
+    {
+        "number": 828,
+        "rarity": "Uncommon",
+        "power": 3610
+    },
+    {
+        "number": 829,
+        "rarity": "Uncommon",
+        "power": 3608
+    },
+    {
+        "number": 830,
+        "rarity": "Uncommon",
+        "power": 3606
+    },
+    {
+        "number": 831,
+        "rarity": "Uncommon",
+        "power": 3604
+    },
+    {
+        "number": 832,
+        "rarity": "Uncommon",
+        "power": 3602
+    },
+    {
+        "number": 833,
+        "rarity": "Uncommon",
+        "power": 3600
+    },
+    {
+        "number": 834,
+        "rarity": "Uncommon",
+        "power": 3598
+    },
+    {
+        "number": 835,
+        "rarity": "Uncommon",
+        "power": 3596
+    },
+    {
+        "number": 836,
+        "rarity": "Uncommon",
+        "power": 3594
+    },
+    {
+        "number": 837,
+        "rarity": "Uncommon",
+        "power": 3592
+    },
+    {
+        "number": 838,
+        "rarity": "Uncommon",
+        "power": 3590
+    },
+    {
+        "number": 839,
+        "rarity": "Uncommon",
+        "power": 3588
+    },
+    {
+        "number": 840,
+        "rarity": "Uncommon",
+        "power": 3586
+    },
+    {
+        "number": 841,
+        "rarity": "Uncommon",
+        "power": 3584
+    },
+    {
+        "number": 842,
+        "rarity": "Uncommon",
+        "power": 3582
+    },
+    {
+        "number": 843,
+        "rarity": "Uncommon",
+        "power": 3580
+    },
+    {
+        "number": 844,
+        "rarity": "Uncommon",
+        "power": 3578
+    },
+    {
+        "number": 845,
+        "rarity": "Uncommon",
+        "power": 3576
+    },
+    {
+        "number": 846,
+        "rarity": "Uncommon",
+        "power": 3574
+    },
+    {
+        "number": 847,
+        "rarity": "Uncommon",
+        "power": 3572
+    },
+    {
+        "number": 848,
+        "rarity": "Uncommon",
+        "power": 3570
+    },
+    {
+        "number": 849,
+        "rarity": "Uncommon",
+        "power": 3568
+    },
+    {
+        "number": 850,
+        "rarity": "Uncommon",
+        "power": 3566
+    },
+    {
+        "number": 851,
+        "rarity": "Uncommon",
+        "power": 3564
+    },
+    {
+        "number": 852,
+        "rarity": "Uncommon",
+        "power": 3562
+    },
+    {
+        "number": 853,
+        "rarity": "Uncommon",
+        "power": 3560
+    },
+    {
+        "number": 854,
+        "rarity": "Uncommon",
+        "power": 3558
+    },
+    {
+        "number": 855,
+        "rarity": "Uncommon",
+        "power": 3556
+    },
+    {
+        "number": 856,
+        "rarity": "Uncommon",
+        "power": 3554
+    },
+    {
+        "number": 857,
+        "rarity": "Uncommon",
+        "power": 3552
+    },
+    {
+        "number": 858,
+        "rarity": "Uncommon",
+        "power": 3550
+    },
+    {
+        "number": 859,
+        "rarity": "Uncommon",
+        "power": 3548
+    },
+    {
+        "number": 860,
+        "rarity": "Uncommon",
+        "power": 3546
+    },
+    {
+        "number": 861,
+        "rarity": "Uncommon",
+        "power": 3544
+    },
+    {
+        "number": 862,
+        "rarity": "Uncommon",
+        "power": 3542
+    },
+    {
+        "number": 863,
+        "rarity": "Uncommon",
+        "power": 3540
+    },
+    {
+        "number": 864,
+        "rarity": "Uncommon",
+        "power": 3538
+    },
+    {
+        "number": 865,
+        "rarity": "Uncommon",
+        "power": 3536
+    },
+    {
+        "number": 866,
+        "rarity": "Uncommon",
+        "power": 3534
+    },
+    {
+        "number": 867,
+        "rarity": "Uncommon",
+        "power": 3532
+    },
+    {
+        "number": 868,
+        "rarity": "Uncommon",
+        "power": 3530
+    },
+    {
+        "number": 869,
+        "rarity": "Uncommon",
+        "power": 3528
+    },
+    {
+        "number": 870,
+        "rarity": "Uncommon",
+        "power": 3526
+    },
+    {
+        "number": 871,
+        "rarity": "Uncommon",
+        "power": 3524
+    },
+    {
+        "number": 872,
+        "rarity": "Uncommon",
+        "power": 3522
+    },
+    {
+        "number": 873,
+        "rarity": "Uncommon",
+        "power": 3520
+    },
+    {
+        "number": 874,
+        "rarity": "Uncommon",
+        "power": 3518
+    },
+    {
+        "number": 875,
+        "rarity": "Uncommon",
+        "power": 3516
+    },
+    {
+        "number": 876,
+        "rarity": "Uncommon",
+        "power": 3514
+    },
+    {
+        "number": 877,
+        "rarity": "Uncommon",
+        "power": 3512
+    },
+    {
+        "number": 878,
+        "rarity": "Uncommon",
+        "power": 3510
+    },
+    {
+        "number": 879,
+        "rarity": "Uncommon",
+        "power": 3508
+    },
+    {
+        "number": 880,
+        "rarity": "Uncommon",
+        "power": 3506
+    },
+    {
+        "number": 881,
+        "rarity": "Uncommon",
+        "power": 3504
+    },
+    {
+        "number": 882,
+        "rarity": "Uncommon",
+        "power": 3502
+    },
+    {
+        "number": 883,
+        "rarity": "Uncommon",
+        "power": 3500
+    },
+    {
+        "number": 884,
+        "rarity": "Uncommon",
+        "power": 3498
+    },
+    {
+        "number": 885,
+        "rarity": "Uncommon",
+        "power": 3496
+    },
+    {
+        "number": 886,
+        "rarity": "Uncommon",
+        "power": 3494
+    },
+    {
+        "number": 887,
+        "rarity": "Uncommon",
+        "power": 3492
+    },
+    {
+        "number": 888,
+        "rarity": "Uncommon",
+        "power": 3490
+    },
+    {
+        "number": 889,
+        "rarity": "Uncommon",
+        "power": 3488
+    },
+    {
+        "number": 890,
+        "rarity": "Uncommon",
+        "power": 3486
+    },
+    {
+        "number": 891,
+        "rarity": "Uncommon",
+        "power": 3484
+    },
+    {
+        "number": 892,
+        "rarity": "Uncommon",
+        "power": 3482
+    },
+    {
+        "number": 893,
+        "rarity": "Uncommon",
+        "power": 3480
+    },
+    {
+        "number": 894,
+        "rarity": "Uncommon",
+        "power": 3478
+    },
+    {
+        "number": 895,
+        "rarity": "Uncommon",
+        "power": 3476
+    },
+    {
+        "number": 896,
+        "rarity": "Uncommon",
+        "power": 3474
+    },
+    {
+        "number": 897,
+        "rarity": "Uncommon",
+        "power": 3472
+    },
+    {
+        "number": 898,
+        "rarity": "Uncommon",
+        "power": 3470
+    },
+    {
+        "number": 899,
+        "rarity": "Uncommon",
+        "power": 3468
+    },
+    {
+        "number": 900,
+        "rarity": "Uncommon",
+        "power": 3466
+    },
+    {
+        "number": 901,
+        "rarity": "Uncommon",
+        "power": 3464
+    },
+    {
+        "number": 902,
+        "rarity": "Uncommon",
+        "power": 3462
+    },
+    {
+        "number": 903,
+        "rarity": "Uncommon",
+        "power": 3460
+    },
+    {
+        "number": 904,
+        "rarity": "Uncommon",
+        "power": 3458
+    },
+    {
+        "number": 905,
+        "rarity": "Uncommon",
+        "power": 3456
+    },
+    {
+        "number": 906,
+        "rarity": "Uncommon",
+        "power": 3454
+    },
+    {
+        "number": 907,
+        "rarity": "Uncommon",
+        "power": 3452
+    },
+    {
+        "number": 908,
+        "rarity": "Uncommon",
+        "power": 3450
+    },
+    {
+        "number": 909,
+        "rarity": "Uncommon",
+        "power": 3448
+    },
+    {
+        "number": 910,
+        "rarity": "Uncommon",
+        "power": 3446
+    },
+    {
+        "number": 911,
+        "rarity": "Uncommon",
+        "power": 3444
+    },
+    {
+        "number": 912,
+        "rarity": "Uncommon",
+        "power": 3442
+    },
+    {
+        "number": 913,
+        "rarity": "Uncommon",
+        "power": 3440
+    },
+    {
+        "number": 914,
+        "rarity": "Uncommon",
+        "power": 3438
+    },
+    {
+        "number": 915,
+        "rarity": "Uncommon",
+        "power": 3436
+    },
+    {
+        "number": 916,
+        "rarity": "Uncommon",
+        "power": 3434
+    },
+    {
+        "number": 917,
+        "rarity": "Uncommon",
+        "power": 3432
+    },
+    {
+        "number": 918,
+        "rarity": "Uncommon",
+        "power": 3430
+    },
+    {
+        "number": 919,
+        "rarity": "Uncommon",
+        "power": 3428
+    },
+    {
+        "number": 920,
+        "rarity": "Uncommon",
+        "power": 3426
+    },
+    {
+        "number": 921,
+        "rarity": "Uncommon",
+        "power": 3424
+    },
+    {
+        "number": 922,
+        "rarity": "Uncommon",
+        "power": 3422
+    },
+    {
+        "number": 923,
+        "rarity": "Uncommon",
+        "power": 3420
+    },
+    {
+        "number": 924,
+        "rarity": "Uncommon",
+        "power": 3418
+    },
+    {
+        "number": 925,
+        "rarity": "Uncommon",
+        "power": 3416
+    },
+    {
+        "number": 926,
+        "rarity": "Uncommon",
+        "power": 3414
+    },
+    {
+        "number": 927,
+        "rarity": "Uncommon",
+        "power": 3412
+    },
+    {
+        "number": 928,
+        "rarity": "Uncommon",
+        "power": 3410
+    },
+    {
+        "number": 929,
+        "rarity": "Uncommon",
+        "power": 3408
+    },
+    {
+        "number": 930,
+        "rarity": "Uncommon",
+        "power": 3406
+    },
+    {
+        "number": 931,
+        "rarity": "Uncommon",
+        "power": 3404
+    },
+    {
+        "number": 932,
+        "rarity": "Uncommon",
+        "power": 3402
+    },
+    {
+        "number": 933,
+        "rarity": "Uncommon",
+        "power": 3400
+    },
+    {
+        "number": 934,
+        "rarity": "Uncommon",
+        "power": 3398
+    },
+    {
+        "number": 935,
+        "rarity": "Uncommon",
+        "power": 3396
+    },
+    {
+        "number": 936,
+        "rarity": "Uncommon",
+        "power": 3394
+    },
+    {
+        "number": 937,
+        "rarity": "Uncommon",
+        "power": 3392
+    },
+    {
+        "number": 938,
+        "rarity": "Uncommon",
+        "power": 3390
+    },
+    {
+        "number": 939,
+        "rarity": "Uncommon",
+        "power": 3388
+    },
+    {
+        "number": 940,
+        "rarity": "Uncommon",
+        "power": 3386
+    },
+    {
+        "number": 941,
+        "rarity": "Uncommon",
+        "power": 3384
+    },
+    {
+        "number": 942,
+        "rarity": "Uncommon",
+        "power": 3382
+    },
+    {
+        "number": 943,
+        "rarity": "Uncommon",
+        "power": 3380
+    },
+    {
+        "number": 944,
+        "rarity": "Uncommon",
+        "power": 3378
+    },
+    {
+        "number": 945,
+        "rarity": "Uncommon",
+        "power": 3376
+    },
+    {
+        "number": 946,
+        "rarity": "Uncommon",
+        "power": 3374
+    },
+    {
+        "number": 947,
+        "rarity": "Uncommon",
+        "power": 3372
+    },
+    {
+        "number": 948,
+        "rarity": "Uncommon",
+        "power": 3370
+    },
+    {
+        "number": 949,
+        "rarity": "Uncommon",
+        "power": 3368
+    },
+    {
+        "number": 950,
+        "rarity": "Uncommon",
+        "power": 3366
+    },
+    {
+        "number": 951,
+        "rarity": "Uncommon",
+        "power": 3364
+    },
+    {
+        "number": 952,
+        "rarity": "Uncommon",
+        "power": 3362
+    },
+    {
+        "number": 953,
+        "rarity": "Uncommon",
+        "power": 3360
+    },
+    {
+        "number": 954,
+        "rarity": "Uncommon",
+        "power": 3358
+    },
+    {
+        "number": 955,
+        "rarity": "Uncommon",
+        "power": 3356
+    },
+    {
+        "number": 956,
+        "rarity": "Uncommon",
+        "power": 3354
+    },
+    {
+        "number": 957,
+        "rarity": "Uncommon",
+        "power": 3352
+    },
+    {
+        "number": 958,
+        "rarity": "Uncommon",
+        "power": 3350
+    },
+    {
+        "number": 959,
+        "rarity": "Uncommon",
+        "power": 3348
+    },
+    {
+        "number": 960,
+        "rarity": "Uncommon",
+        "power": 3346
+    },
+    {
+        "number": 961,
+        "rarity": "Uncommon",
+        "power": 3344
+    },
+    {
+        "number": 962,
+        "rarity": "Uncommon",
+        "power": 3342
+    },
+    {
+        "number": 963,
+        "rarity": "Uncommon",
+        "power": 3340
+    },
+    {
+        "number": 964,
+        "rarity": "Uncommon",
+        "power": 3338
+    },
+    {
+        "number": 965,
+        "rarity": "Uncommon",
+        "power": 3336
+    },
+    {
+        "number": 966,
+        "rarity": "Uncommon",
+        "power": 3334
+    },
+    {
+        "number": 967,
+        "rarity": "Uncommon",
+        "power": 3332
+    },
+    {
+        "number": 968,
+        "rarity": "Uncommon",
+        "power": 3330
+    },
+    {
+        "number": 969,
+        "rarity": "Uncommon",
+        "power": 3328
+    },
+    {
+        "number": 970,
+        "rarity": "Uncommon",
+        "power": 3326
+    },
+    {
+        "number": 971,
+        "rarity": "Uncommon",
+        "power": 3324
+    },
+    {
+        "number": 972,
+        "rarity": "Uncommon",
+        "power": 3322
+    },
+    {
+        "number": 973,
+        "rarity": "Uncommon",
+        "power": 3320
+    },
+    {
+        "number": 974,
+        "rarity": "Uncommon",
+        "power": 3318
+    },
+    {
+        "number": 975,
+        "rarity": "Uncommon",
+        "power": 3316
+    },
+    {
+        "number": 976,
+        "rarity": "Uncommon",
+        "power": 3314
+    },
+    {
+        "number": 977,
+        "rarity": "Uncommon",
+        "power": 3312
+    },
+    {
+        "number": 978,
+        "rarity": "Uncommon",
+        "power": 3310
+    },
+    {
+        "number": 979,
+        "rarity": "Uncommon",
+        "power": 3308
+    },
+    {
+        "number": 980,
+        "rarity": "Uncommon",
+        "power": 3306
+    },
+    {
+        "number": 981,
+        "rarity": "Common",
+        "power": 1652
+    },
+    {
+        "number": 982,
+        "rarity": "Common",
+        "power": 1651
+    },
+    {
+        "number": 983,
+        "rarity": "Common",
+        "power": 1650
+    },
+    {
+        "number": 984,
+        "rarity": "Common",
+        "power": 1649
+    },
+    {
+        "number": 985,
+        "rarity": "Common",
+        "power": 1648
+    },
+    {
+        "number": 986,
+        "rarity": "Common",
+        "power": 1647
+    },
+    {
+        "number": 987,
+        "rarity": "Common",
+        "power": 1646
+    },
+    {
+        "number": 988,
+        "rarity": "Common",
+        "power": 1645
+    },
+    {
+        "number": 989,
+        "rarity": "Common",
+        "power": 1644
+    },
+    {
+        "number": 990,
+        "rarity": "Common",
+        "power": 1643
+    },
+    {
+        "number": 991,
+        "rarity": "Common",
+        "power": 1642
+    },
+    {
+        "number": 992,
+        "rarity": "Common",
+        "power": 1641
+    },
+    {
+        "number": 993,
+        "rarity": "Common",
+        "power": 1640
+    },
+    {
+        "number": 994,
+        "rarity": "Common",
+        "power": 1639
+    },
+    {
+        "number": 995,
+        "rarity": "Common",
+        "power": 1638
+    },
+    {
+        "number": 996,
+        "rarity": "Common",
+        "power": 1637
+    },
+    {
+        "number": 997,
+        "rarity": "Common",
+        "power": 1636
+    },
+    {
+        "number": 998,
+        "rarity": "Common",
+        "power": 1635
+    },
+    {
+        "number": 999,
+        "rarity": "Common",
+        "power": 1634
+    },
+    {
+        "number": 1000,
+        "rarity": "Common",
+        "power": 1633
+    },
+    {
+        "number": 1001,
+        "rarity": "Common",
+        "power": 1632
+    },
+    {
+        "number": 1002,
+        "rarity": "Common",
+        "power": 1631
+    },
+    {
+        "number": 1003,
+        "rarity": "Common",
+        "power": 1630
+    },
+    {
+        "number": 1004,
+        "rarity": "Common",
+        "power": 1629
+    },
+    {
+        "number": 1005,
+        "rarity": "Common",
+        "power": 1628
+    },
+    {
+        "number": 1006,
+        "rarity": "Common",
+        "power": 1627
+    },
+    {
+        "number": 1007,
+        "rarity": "Common",
+        "power": 1626
+    },
+    {
+        "number": 1008,
+        "rarity": "Common",
+        "power": 1625
+    },
+    {
+        "number": 1009,
+        "rarity": "Common",
+        "power": 1624
+    },
+    {
+        "number": 1010,
+        "rarity": "Common",
+        "power": 1623
+    },
+    {
+        "number": 1011,
+        "rarity": "Common",
+        "power": 1622
+    },
+    {
+        "number": 1012,
+        "rarity": "Common",
+        "power": 1621
+    },
+    {
+        "number": 1013,
+        "rarity": "Common",
+        "power": 1620
+    },
+    {
+        "number": 1014,
+        "rarity": "Common",
+        "power": 1619
+    },
+    {
+        "number": 1015,
+        "rarity": "Common",
+        "power": 1618
+    },
+    {
+        "number": 1016,
+        "rarity": "Common",
+        "power": 1617
+    },
+    {
+        "number": 1017,
+        "rarity": "Common",
+        "power": 1616
+    },
+    {
+        "number": 1018,
+        "rarity": "Common",
+        "power": 1615
+    },
+    {
+        "number": 1019,
+        "rarity": "Common",
+        "power": 1614
+    },
+    {
+        "number": 1020,
+        "rarity": "Common",
+        "power": 1613
+    },
+    {
+        "number": 1021,
+        "rarity": "Common",
+        "power": 1612
+    },
+    {
+        "number": 1022,
+        "rarity": "Common",
+        "power": 1611
+    },
+    {
+        "number": 1023,
+        "rarity": "Common",
+        "power": 1610
+    },
+    {
+        "number": 1024,
+        "rarity": "Common",
+        "power": 1609
+    },
+    {
+        "number": 1025,
+        "rarity": "Common",
+        "power": 1608
+    },
+    {
+        "number": 1026,
+        "rarity": "Common",
+        "power": 1607
+    },
+    {
+        "number": 1027,
+        "rarity": "Common",
+        "power": 1606
+    },
+    {
+        "number": 1028,
+        "rarity": "Common",
+        "power": 1605
+    },
+    {
+        "number": 1029,
+        "rarity": "Common",
+        "power": 1604
+    },
+    {
+        "number": 1030,
+        "rarity": "Common",
+        "power": 1603
+    },
+    {
+        "number": 1031,
+        "rarity": "Common",
+        "power": 1602
+    },
+    {
+        "number": 1032,
+        "rarity": "Common",
+        "power": 1601
+    },
+    {
+        "number": 1033,
+        "rarity": "Common",
+        "power": 1600
+    },
+    {
+        "number": 1034,
+        "rarity": "Common",
+        "power": 1599
+    },
+    {
+        "number": 1035,
+        "rarity": "Common",
+        "power": 1598
+    },
+    {
+        "number": 1036,
+        "rarity": "Common",
+        "power": 1597
+    },
+    {
+        "number": 1037,
+        "rarity": "Common",
+        "power": 1596
+    },
+    {
+        "number": 1038,
+        "rarity": "Common",
+        "power": 1595
+    },
+    {
+        "number": 1039,
+        "rarity": "Common",
+        "power": 1594
+    },
+    {
+        "number": 1040,
+        "rarity": "Common",
+        "power": 1593
+    },
+    {
+        "number": 1041,
+        "rarity": "Common",
+        "power": 1592
+    },
+    {
+        "number": 1042,
+        "rarity": "Common",
+        "power": 1591
+    },
+    {
+        "number": 1043,
+        "rarity": "Common",
+        "power": 1590
+    },
+    {
+        "number": 1044,
+        "rarity": "Common",
+        "power": 1589
+    },
+    {
+        "number": 1045,
+        "rarity": "Common",
+        "power": 1588
+    },
+    {
+        "number": 1046,
+        "rarity": "Common",
+        "power": 1587
+    },
+    {
+        "number": 1047,
+        "rarity": "Common",
+        "power": 1586
+    },
+    {
+        "number": 1048,
+        "rarity": "Common",
+        "power": 1585
+    },
+    {
+        "number": 1049,
+        "rarity": "Common",
+        "power": 1584
+    },
+    {
+        "number": 1050,
+        "rarity": "Common",
+        "power": 1583
+    },
+    {
+        "number": 1051,
+        "rarity": "Common",
+        "power": 1582
+    },
+    {
+        "number": 1052,
+        "rarity": "Common",
+        "power": 1581
+    },
+    {
+        "number": 1053,
+        "rarity": "Common",
+        "power": 1580
+    },
+    {
+        "number": 1054,
+        "rarity": "Common",
+        "power": 1579
+    },
+    {
+        "number": 1055,
+        "rarity": "Common",
+        "power": 1578
+    },
+    {
+        "number": 1056,
+        "rarity": "Common",
+        "power": 1577
+    },
+    {
+        "number": 1057,
+        "rarity": "Common",
+        "power": 1576
+    },
+    {
+        "number": 1058,
+        "rarity": "Common",
+        "power": 1575
+    },
+    {
+        "number": 1059,
+        "rarity": "Common",
+        "power": 1574
+    },
+    {
+        "number": 1060,
+        "rarity": "Common",
+        "power": 1573
+    },
+    {
+        "number": 1061,
+        "rarity": "Common",
+        "power": 1572
+    },
+    {
+        "number": 1062,
+        "rarity": "Common",
+        "power": 1571
+    },
+    {
+        "number": 1063,
+        "rarity": "Common",
+        "power": 1570
+    },
+    {
+        "number": 1064,
+        "rarity": "Common",
+        "power": 1569
+    },
+    {
+        "number": 1065,
+        "rarity": "Common",
+        "power": 1568
+    },
+    {
+        "number": 1066,
+        "rarity": "Common",
+        "power": 1567
+    },
+    {
+        "number": 1067,
+        "rarity": "Common",
+        "power": 1566
+    },
+    {
+        "number": 1068,
+        "rarity": "Common",
+        "power": 1565
+    },
+    {
+        "number": 1069,
+        "rarity": "Common",
+        "power": 1564
+    },
+    {
+        "number": 1070,
+        "rarity": "Common",
+        "power": 1563
+    },
+    {
+        "number": 1071,
+        "rarity": "Common",
+        "power": 1562
+    },
+    {
+        "number": 1072,
+        "rarity": "Common",
+        "power": 1561
+    },
+    {
+        "number": 1073,
+        "rarity": "Common",
+        "power": 1560
+    },
+    {
+        "number": 1074,
+        "rarity": "Common",
+        "power": 1559
+    },
+    {
+        "number": 1075,
+        "rarity": "Common",
+        "power": 1558
+    },
+    {
+        "number": 1076,
+        "rarity": "Common",
+        "power": 1557
+    },
+    {
+        "number": 1077,
+        "rarity": "Common",
+        "power": 1556
+    },
+    {
+        "number": 1078,
+        "rarity": "Common",
+        "power": 1555
+    },
+    {
+        "number": 1079,
+        "rarity": "Common",
+        "power": 1554
+    },
+    {
+        "number": 1080,
+        "rarity": "Common",
+        "power": 1553
+    },
+    {
+        "number": 1081,
+        "rarity": "Common",
+        "power": 1552
+    },
+    {
+        "number": 1082,
+        "rarity": "Common",
+        "power": 1551
+    },
+    {
+        "number": 1083,
+        "rarity": "Common",
+        "power": 1550
+    },
+    {
+        "number": 1084,
+        "rarity": "Common",
+        "power": 1549
+    },
+    {
+        "number": 1085,
+        "rarity": "Common",
+        "power": 1548
+    },
+    {
+        "number": 1086,
+        "rarity": "Common",
+        "power": 1547
+    },
+    {
+        "number": 1087,
+        "rarity": "Common",
+        "power": 1546
+    },
+    {
+        "number": 1088,
+        "rarity": "Common",
+        "power": 1545
+    },
+    {
+        "number": 1089,
+        "rarity": "Common",
+        "power": 1544
+    },
+    {
+        "number": 1090,
+        "rarity": "Common",
+        "power": 1543
+    },
+    {
+        "number": 1091,
+        "rarity": "Common",
+        "power": 1542
+    },
+    {
+        "number": 1092,
+        "rarity": "Common",
+        "power": 1541
+    },
+    {
+        "number": 1093,
+        "rarity": "Common",
+        "power": 1540
+    },
+    {
+        "number": 1094,
+        "rarity": "Common",
+        "power": 1539
+    },
+    {
+        "number": 1095,
+        "rarity": "Common",
+        "power": 1538
+    },
+    {
+        "number": 1096,
+        "rarity": "Common",
+        "power": 1537
+    },
+    {
+        "number": 1097,
+        "rarity": "Common",
+        "power": 1536
+    },
+    {
+        "number": 1098,
+        "rarity": "Common",
+        "power": 1535
+    },
+    {
+        "number": 1099,
+        "rarity": "Common",
+        "power": 1534
+    },
+    {
+        "number": 1100,
+        "rarity": "Common",
+        "power": 1533
+    },
+    {
+        "number": 1101,
+        "rarity": "Common",
+        "power": 1532
+    },
+    {
+        "number": 1102,
+        "rarity": "Common",
+        "power": 1531
+    },
+    {
+        "number": 1103,
+        "rarity": "Common",
+        "power": 1530
+    },
+    {
+        "number": 1104,
+        "rarity": "Common",
+        "power": 1529
+    },
+    {
+        "number": 1105,
+        "rarity": "Common",
+        "power": 1528
+    },
+    {
+        "number": 1106,
+        "rarity": "Common",
+        "power": 1527
+    },
+    {
+        "number": 1107,
+        "rarity": "Common",
+        "power": 1526
+    },
+    {
+        "number": 1108,
+        "rarity": "Common",
+        "power": 1525
+    },
+    {
+        "number": 1109,
+        "rarity": "Common",
+        "power": 1524
+    },
+    {
+        "number": 1110,
+        "rarity": "Common",
+        "power": 1523
+    },
+    {
+        "number": 1111,
+        "rarity": "Common",
+        "power": 1522
+    },
+    {
+        "number": 1112,
+        "rarity": "Common",
+        "power": 1521
+    },
+    {
+        "number": 1113,
+        "rarity": "Common",
+        "power": 1520
+    },
+    {
+        "number": 1114,
+        "rarity": "Common",
+        "power": 1519
+    },
+    {
+        "number": 1115,
+        "rarity": "Common",
+        "power": 1518
+    },
+    {
+        "number": 1116,
+        "rarity": "Common",
+        "power": 1517
+    },
+    {
+        "number": 1117,
+        "rarity": "Common",
+        "power": 1516
+    },
+    {
+        "number": 1118,
+        "rarity": "Common",
+        "power": 1515
+    },
+    {
+        "number": 1119,
+        "rarity": "Common",
+        "power": 1514
+    },
+    {
+        "number": 1120,
+        "rarity": "Common",
+        "power": 1513
+    },
+    {
+        "number": 1121,
+        "rarity": "Common",
+        "power": 1512
+    },
+    {
+        "number": 1122,
+        "rarity": "Common",
+        "power": 1511
+    },
+    {
+        "number": 1123,
+        "rarity": "Common",
+        "power": 1510
+    },
+    {
+        "number": 1124,
+        "rarity": "Common",
+        "power": 1509
+    },
+    {
+        "number": 1125,
+        "rarity": "Common",
+        "power": 1508
+    },
+    {
+        "number": 1126,
+        "rarity": "Common",
+        "power": 1507
+    },
+    {
+        "number": 1127,
+        "rarity": "Common",
+        "power": 1506
+    },
+    {
+        "number": 1128,
+        "rarity": "Common",
+        "power": 1505
+    },
+    {
+        "number": 1129,
+        "rarity": "Common",
+        "power": 1504
+    },
+    {
+        "number": 1130,
+        "rarity": "Common",
+        "power": 1503
+    },
+    {
+        "number": 1131,
+        "rarity": "Common",
+        "power": 1502
+    },
+    {
+        "number": 1132,
+        "rarity": "Common",
+        "power": 1501
+    },
+    {
+        "number": 1133,
+        "rarity": "Common",
+        "power": 1500
+    },
+    {
+        "number": 1134,
+        "rarity": "Common",
+        "power": 1499
+    },
+    {
+        "number": 1135,
+        "rarity": "Common",
+        "power": 1498
+    },
+    {
+        "number": 1136,
+        "rarity": "Common",
+        "power": 1497
+    },
+    {
+        "number": 1137,
+        "rarity": "Common",
+        "power": 1496
+    },
+    {
+        "number": 1138,
+        "rarity": "Common",
+        "power": 1495
+    },
+    {
+        "number": 1139,
+        "rarity": "Common",
+        "power": 1494
+    },
+    {
+        "number": 1140,
+        "rarity": "Common",
+        "power": 1493
+    },
+    {
+        "number": 1141,
+        "rarity": "Common",
+        "power": 1492
+    },
+    {
+        "number": 1142,
+        "rarity": "Common",
+        "power": 1491
+    },
+    {
+        "number": 1143,
+        "rarity": "Common",
+        "power": 1490
+    },
+    {
+        "number": 1144,
+        "rarity": "Common",
+        "power": 1489
+    },
+    {
+        "number": 1145,
+        "rarity": "Common",
+        "power": 1488
+    },
+    {
+        "number": 1146,
+        "rarity": "Common",
+        "power": 1487
+    },
+    {
+        "number": 1147,
+        "rarity": "Common",
+        "power": 1486
+    },
+    {
+        "number": 1148,
+        "rarity": "Common",
+        "power": 1485
+    },
+    {
+        "number": 1149,
+        "rarity": "Common",
+        "power": 1484
+    },
+    {
+        "number": 1150,
+        "rarity": "Common",
+        "power": 1483
+    },
+    {
+        "number": 1151,
+        "rarity": "Common",
+        "power": 1482
+    },
+    {
+        "number": 1152,
+        "rarity": "Common",
+        "power": 1481
+    },
+    {
+        "number": 1153,
+        "rarity": "Common",
+        "power": 1480
+    },
+    {
+        "number": 1154,
+        "rarity": "Common",
+        "power": 1479
+    },
+    {
+        "number": 1155,
+        "rarity": "Common",
+        "power": 1478
+    },
+    {
+        "number": 1156,
+        "rarity": "Common",
+        "power": 1477
+    },
+    {
+        "number": 1157,
+        "rarity": "Common",
+        "power": 1476
+    },
+    {
+        "number": 1158,
+        "rarity": "Common",
+        "power": 1475
+    },
+    {
+        "number": 1159,
+        "rarity": "Common",
+        "power": 1474
+    },
+    {
+        "number": 1160,
+        "rarity": "Common",
+        "power": 1473
+    },
+    {
+        "number": 1161,
+        "rarity": "Common",
+        "power": 1472
+    },
+    {
+        "number": 1162,
+        "rarity": "Common",
+        "power": 1471
+    },
+    {
+        "number": 1163,
+        "rarity": "Common",
+        "power": 1470
+    },
+    {
+        "number": 1164,
+        "rarity": "Common",
+        "power": 1469
+    },
+    {
+        "number": 1165,
+        "rarity": "Common",
+        "power": 1468
+    },
+    {
+        "number": 1166,
+        "rarity": "Common",
+        "power": 1467
+    },
+    {
+        "number": 1167,
+        "rarity": "Common",
+        "power": 1466
+    },
+    {
+        "number": 1168,
+        "rarity": "Common",
+        "power": 1465
+    },
+    {
+        "number": 1169,
+        "rarity": "Common",
+        "power": 1464
+    },
+    {
+        "number": 1170,
+        "rarity": "Common",
+        "power": 1463
+    },
+    {
+        "number": 1171,
+        "rarity": "Common",
+        "power": 1462
+    },
+    {
+        "number": 1172,
+        "rarity": "Common",
+        "power": 1461
+    },
+    {
+        "number": 1173,
+        "rarity": "Common",
+        "power": 1460
+    },
+    {
+        "number": 1174,
+        "rarity": "Common",
+        "power": 1459
+    },
+    {
+        "number": 1175,
+        "rarity": "Common",
+        "power": 1458
+    },
+    {
+        "number": 1176,
+        "rarity": "Common",
+        "power": 1457
+    },
+    {
+        "number": 1177,
+        "rarity": "Common",
+        "power": 1456
+    },
+    {
+        "number": 1178,
+        "rarity": "Common",
+        "power": 1455
+    },
+    {
+        "number": 1179,
+        "rarity": "Common",
+        "power": 1454
+    },
+    {
+        "number": 1180,
+        "rarity": "Common",
+        "power": 1453
+    },
+    {
+        "number": 1181,
+        "rarity": "Common",
+        "power": 1452
+    },
+    {
+        "number": 1182,
+        "rarity": "Common",
+        "power": 1451
+    },
+    {
+        "number": 1183,
+        "rarity": "Common",
+        "power": 1450
+    },
+    {
+        "number": 1184,
+        "rarity": "Common",
+        "power": 1449
+    },
+    {
+        "number": 1185,
+        "rarity": "Common",
+        "power": 1448
+    },
+    {
+        "number": 1186,
+        "rarity": "Common",
+        "power": 1447
+    },
+    {
+        "number": 1187,
+        "rarity": "Common",
+        "power": 1446
+    },
+    {
+        "number": 1188,
+        "rarity": "Common",
+        "power": 1445
+    },
+    {
+        "number": 1189,
+        "rarity": "Common",
+        "power": 1444
+    },
+    {
+        "number": 1190,
+        "rarity": "Common",
+        "power": 1443
+    },
+    {
+        "number": 1191,
+        "rarity": "Common",
+        "power": 1442
+    },
+    {
+        "number": 1192,
+        "rarity": "Common",
+        "power": 1441
+    },
+    {
+        "number": 1193,
+        "rarity": "Common",
+        "power": 1440
+    },
+    {
+        "number": 1194,
+        "rarity": "Common",
+        "power": 1439
+    },
+    {
+        "number": 1195,
+        "rarity": "Common",
+        "power": 1438
+    },
+    {
+        "number": 1196,
+        "rarity": "Common",
+        "power": 1437
+    },
+    {
+        "number": 1197,
+        "rarity": "Common",
+        "power": 1436
+    },
+    {
+        "number": 1198,
+        "rarity": "Common",
+        "power": 1435
+    },
+    {
+        "number": 1199,
+        "rarity": "Common",
+        "power": 1434
+    },
+    {
+        "number": 1200,
+        "rarity": "Common",
+        "power": 1433
+    },
+    {
+        "number": 1201,
+        "rarity": "Common",
+        "power": 1432
+    },
+    {
+        "number": 1202,
+        "rarity": "Common",
+        "power": 1431
+    },
+    {
+        "number": 1203,
+        "rarity": "Common",
+        "power": 1430
+    },
+    {
+        "number": 1204,
+        "rarity": "Common",
+        "power": 1429
+    },
+    {
+        "number": 1205,
+        "rarity": "Common",
+        "power": 1428
+    },
+    {
+        "number": 1206,
+        "rarity": "Common",
+        "power": 1427
+    },
+    {
+        "number": 1207,
+        "rarity": "Common",
+        "power": 1426
+    },
+    {
+        "number": 1208,
+        "rarity": "Common",
+        "power": 1425
+    },
+    {
+        "number": 1209,
+        "rarity": "Common",
+        "power": 1424
+    },
+    {
+        "number": 1210,
+        "rarity": "Common",
+        "power": 1423
+    },
+    {
+        "number": 1211,
+        "rarity": "Common",
+        "power": 1422
+    },
+    {
+        "number": 1212,
+        "rarity": "Common",
+        "power": 1421
+    },
+    {
+        "number": 1213,
+        "rarity": "Common",
+        "power": 1420
+    },
+    {
+        "number": 1214,
+        "rarity": "Common",
+        "power": 1419
+    },
+    {
+        "number": 1215,
+        "rarity": "Common",
+        "power": 1418
+    },
+    {
+        "number": 1216,
+        "rarity": "Common",
+        "power": 1417
+    },
+    {
+        "number": 1217,
+        "rarity": "Common",
+        "power": 1416
+    },
+    {
+        "number": 1218,
+        "rarity": "Common",
+        "power": 1415
+    },
+    {
+        "number": 1219,
+        "rarity": "Common",
+        "power": 1414
+    },
+    {
+        "number": 1220,
+        "rarity": "Common",
+        "power": 1413
+    },
+    {
+        "number": 1221,
+        "rarity": "Common",
+        "power": 1412
+    },
+    {
+        "number": 1222,
+        "rarity": "Common",
+        "power": 1411
+    },
+    {
+        "number": 1223,
+        "rarity": "Common",
+        "power": 1410
+    },
+    {
+        "number": 1224,
+        "rarity": "Common",
+        "power": 1409
+    },
+    {
+        "number": 1225,
+        "rarity": "Common",
+        "power": 1408
+    },
+    {
+        "number": 1226,
+        "rarity": "Common",
+        "power": 1407
+    },
+    {
+        "number": 1227,
+        "rarity": "Common",
+        "power": 1406
+    },
+    {
+        "number": 1228,
+        "rarity": "Common",
+        "power": 1405
+    },
+    {
+        "number": 1229,
+        "rarity": "Common",
+        "power": 1404
+    },
+    {
+        "number": 1230,
+        "rarity": "Common",
+        "power": 1403
+    },
+    {
+        "number": 1231,
+        "rarity": "Common",
+        "power": 1402
+    },
+    {
+        "number": 1232,
+        "rarity": "Common",
+        "power": 1401
+    },
+    {
+        "number": 1233,
+        "rarity": "Common",
+        "power": 1400
+    },
+    {
+        "number": 1234,
+        "rarity": "Common",
+        "power": 1399
+    },
+    {
+        "number": 1235,
+        "rarity": "Common",
+        "power": 1398
+    },
+    {
+        "number": 1236,
+        "rarity": "Common",
+        "power": 1397
+    },
+    {
+        "number": 1237,
+        "rarity": "Common",
+        "power": 1396
+    },
+    {
+        "number": 1238,
+        "rarity": "Common",
+        "power": 1395
+    },
+    {
+        "number": 1239,
+        "rarity": "Common",
+        "power": 1394
+    },
+    {
+        "number": 1240,
+        "rarity": "Common",
+        "power": 1393
+    },
+    {
+        "number": 1241,
+        "rarity": "Common",
+        "power": 1392
+    },
+    {
+        "number": 1242,
+        "rarity": "Common",
+        "power": 1391
+    },
+    {
+        "number": 1243,
+        "rarity": "Common",
+        "power": 1390
+    },
+    {
+        "number": 1244,
+        "rarity": "Common",
+        "power": 1389
+    },
+    {
+        "number": 1245,
+        "rarity": "Common",
+        "power": 1388
+    },
+    {
+        "number": 1246,
+        "rarity": "Common",
+        "power": 1387
+    },
+    {
+        "number": 1247,
+        "rarity": "Common",
+        "power": 1386
+    },
+    {
+        "number": 1248,
+        "rarity": "Common",
+        "power": 1385
+    },
+    {
+        "number": 1249,
+        "rarity": "Common",
+        "power": 1384
+    },
+    {
+        "number": 1250,
+        "rarity": "Common",
+        "power": 1383
+    },
+    {
+        "number": 1251,
+        "rarity": "Common",
+        "power": 1382
+    },
+    {
+        "number": 1252,
+        "rarity": "Common",
+        "power": 1381
+    },
+    {
+        "number": 1253,
+        "rarity": "Common",
+        "power": 1380
+    },
+    {
+        "number": 1254,
+        "rarity": "Common",
+        "power": 1379
+    },
+    {
+        "number": 1255,
+        "rarity": "Common",
+        "power": 1378
+    },
+    {
+        "number": 1256,
+        "rarity": "Common",
+        "power": 1377
+    },
+    {
+        "number": 1257,
+        "rarity": "Common",
+        "power": 1376
+    },
+    {
+        "number": 1258,
+        "rarity": "Common",
+        "power": 1375
+    },
+    {
+        "number": 1259,
+        "rarity": "Common",
+        "power": 1374
+    },
+    {
+        "number": 1260,
+        "rarity": "Common",
+        "power": 1373
+    },
+    {
+        "number": 1261,
+        "rarity": "Common",
+        "power": 1372
+    },
+    {
+        "number": 1262,
+        "rarity": "Common",
+        "power": 1371
+    },
+    {
+        "number": 1263,
+        "rarity": "Common",
+        "power": 1370
+    },
+    {
+        "number": 1264,
+        "rarity": "Common",
+        "power": 1369
+    },
+    {
+        "number": 1265,
+        "rarity": "Common",
+        "power": 1368
+    },
+    {
+        "number": 1266,
+        "rarity": "Common",
+        "power": 1367
+    },
+    {
+        "number": 1267,
+        "rarity": "Common",
+        "power": 1366
+    },
+    {
+        "number": 1268,
+        "rarity": "Common",
+        "power": 1365
+    },
+    {
+        "number": 1269,
+        "rarity": "Common",
+        "power": 1364
+    },
+    {
+        "number": 1270,
+        "rarity": "Common",
+        "power": 1363
+    },
+    {
+        "number": 1271,
+        "rarity": "Common",
+        "power": 1362
+    },
+    {
+        "number": 1272,
+        "rarity": "Common",
+        "power": 1361
+    },
+    {
+        "number": 1273,
+        "rarity": "Common",
+        "power": 1360
+    },
+    {
+        "number": 1274,
+        "rarity": "Common",
+        "power": 1359
+    },
+    {
+        "number": 1275,
+        "rarity": "Common",
+        "power": 1358
+    },
+    {
+        "number": 1276,
+        "rarity": "Common",
+        "power": 1357
+    },
+    {
+        "number": 1277,
+        "rarity": "Common",
+        "power": 1356
+    },
+    {
+        "number": 1278,
+        "rarity": "Common",
+        "power": 1355
+    },
+    {
+        "number": 1279,
+        "rarity": "Common",
+        "power": 1354
+    },
+    {
+        "number": 1280,
+        "rarity": "Common",
+        "power": 1353
+    },
+    {
+        "number": 1281,
+        "rarity": "Common",
+        "power": 1352
+    },
+    {
+        "number": 1282,
+        "rarity": "Common",
+        "power": 1351
+    },
+    {
+        "number": 1283,
+        "rarity": "Common",
+        "power": 1350
+    },
+    {
+        "number": 1284,
+        "rarity": "Common",
+        "power": 1349
+    },
+    {
+        "number": 1285,
+        "rarity": "Common",
+        "power": 1348
+    },
+    {
+        "number": 1286,
+        "rarity": "Common",
+        "power": 1347
+    },
+    {
+        "number": 1287,
+        "rarity": "Common",
+        "power": 1346
+    },
+    {
+        "number": 1288,
+        "rarity": "Common",
+        "power": 1345
+    },
+    {
+        "number": 1289,
+        "rarity": "Common",
+        "power": 1344
+    },
+    {
+        "number": 1290,
+        "rarity": "Common",
+        "power": 1343
+    },
+    {
+        "number": 1291,
+        "rarity": "Common",
+        "power": 1342
+    },
+    {
+        "number": 1292,
+        "rarity": "Common",
+        "power": 1341
+    },
+    {
+        "number": 1293,
+        "rarity": "Common",
+        "power": 1340
+    },
+    {
+        "number": 1294,
+        "rarity": "Common",
+        "power": 1339
+    },
+    {
+        "number": 1295,
+        "rarity": "Common",
+        "power": 1338
+    },
+    {
+        "number": 1296,
+        "rarity": "Common",
+        "power": 1337
+    },
+    {
+        "number": 1297,
+        "rarity": "Common",
+        "power": 1336
+    },
+    {
+        "number": 1298,
+        "rarity": "Common",
+        "power": 1335
+    },
+    {
+        "number": 1299,
+        "rarity": "Common",
+        "power": 1334
+    },
+    {
+        "number": 1300,
+        "rarity": "Common",
+        "power": 1333
+    },
+    {
+        "number": 1301,
+        "rarity": "Common",
+        "power": 1332
+    },
+    {
+        "number": 1302,
+        "rarity": "Common",
+        "power": 1331
+    },
+    {
+        "number": 1303,
+        "rarity": "Common",
+        "power": 1330
+    },
+    {
+        "number": 1304,
+        "rarity": "Common",
+        "power": 1329
+    },
+    {
+        "number": 1305,
+        "rarity": "Common",
+        "power": 1328
+    },
+    {
+        "number": 1306,
+        "rarity": "Common",
+        "power": 1327
+    },
+    {
+        "number": 1307,
+        "rarity": "Common",
+        "power": 1326
+    },
+    {
+        "number": 1308,
+        "rarity": "Common",
+        "power": 1325
+    },
+    {
+        "number": 1309,
+        "rarity": "Common",
+        "power": 1324
+    },
+    {
+        "number": 1310,
+        "rarity": "Common",
+        "power": 1323
+    },
+    {
+        "number": 1311,
+        "rarity": "Common",
+        "power": 1322
+    },
+    {
+        "number": 1312,
+        "rarity": "Common",
+        "power": 1321
+    },
+    {
+        "number": 1313,
+        "rarity": "Common",
+        "power": 1320
+    },
+    {
+        "number": 1314,
+        "rarity": "Common",
+        "power": 1319
+    },
+    {
+        "number": 1315,
+        "rarity": "Common",
+        "power": 1318
+    },
+    {
+        "number": 1316,
+        "rarity": "Common",
+        "power": 1317
+    },
+    {
+        "number": 1317,
+        "rarity": "Common",
+        "power": 1316
+    },
+    {
+        "number": 1318,
+        "rarity": "Common",
+        "power": 1315
+    },
+    {
+        "number": 1319,
+        "rarity": "Common",
+        "power": 1314
+    },
+    {
+        "number": 1320,
+        "rarity": "Common",
+        "power": 1313
+    },
+    {
+        "number": 1321,
+        "rarity": "Common",
+        "power": 1312
+    },
+    {
+        "number": 1322,
+        "rarity": "Common",
+        "power": 1311
+    },
+    {
+        "number": 1323,
+        "rarity": "Common",
+        "power": 1310
+    },
+    {
+        "number": 1324,
+        "rarity": "Common",
+        "power": 1309
+    },
+    {
+        "number": 1325,
+        "rarity": "Common",
+        "power": 1308
+    },
+    {
+        "number": 1326,
+        "rarity": "Common",
+        "power": 1307
+    },
+    {
+        "number": 1327,
+        "rarity": "Common",
+        "power": 1306
+    },
+    {
+        "number": 1328,
+        "rarity": "Common",
+        "power": 1305
+    },
+    {
+        "number": 1329,
+        "rarity": "Common",
+        "power": 1304
+    },
+    {
+        "number": 1330,
+        "rarity": "Common",
+        "power": 1303
+    },
+    {
+        "number": 1331,
+        "rarity": "Common",
+        "power": 1302
+    },
+    {
+        "number": 1332,
+        "rarity": "Common",
+        "power": 1301
+    },
+    {
+        "number": 1333,
+        "rarity": "Common",
+        "power": 1300
+    },
+    {
+        "number": 1334,
+        "rarity": "Common",
+        "power": 1299
+    },
+    {
+        "number": 1335,
+        "rarity": "Common",
+        "power": 1298
+    },
+    {
+        "number": 1336,
+        "rarity": "Common",
+        "power": 1297
+    },
+    {
+        "number": 1337,
+        "rarity": "Common",
+        "power": 1296
+    },
+    {
+        "number": 1338,
+        "rarity": "Common",
+        "power": 1295
+    },
+    {
+        "number": 1339,
+        "rarity": "Common",
+        "power": 1294
+    },
+    {
+        "number": 1340,
+        "rarity": "Common",
+        "power": 1293
+    },
+    {
+        "number": 1341,
+        "rarity": "Common",
+        "power": 1292
+    },
+    {
+        "number": 1342,
+        "rarity": "Common",
+        "power": 1291
+    },
+    {
+        "number": 1343,
+        "rarity": "Common",
+        "power": 1290
+    },
+    {
+        "number": 1344,
+        "rarity": "Common",
+        "power": 1289
+    },
+    {
+        "number": 1345,
+        "rarity": "Common",
+        "power": 1288
+    },
+    {
+        "number": 1346,
+        "rarity": "Common",
+        "power": 1287
+    },
+    {
+        "number": 1347,
+        "rarity": "Common",
+        "power": 1286
+    },
+    {
+        "number": 1348,
+        "rarity": "Common",
+        "power": 1285
+    },
+    {
+        "number": 1349,
+        "rarity": "Common",
+        "power": 1284
+    },
+    {
+        "number": 1350,
+        "rarity": "Common",
+        "power": 1283
+    },
+    {
+        "number": 1351,
+        "rarity": "Common",
+        "power": 1282
+    },
+    {
+        "number": 1352,
+        "rarity": "Common",
+        "power": 1281
+    },
+    {
+        "number": 1353,
+        "rarity": "Common",
+        "power": 1280
+    },
+    {
+        "number": 1354,
+        "rarity": "Common",
+        "power": 1279
+    },
+    {
+        "number": 1355,
+        "rarity": "Common",
+        "power": 1278
+    },
+    {
+        "number": 1356,
+        "rarity": "Common",
+        "power": 1277
+    },
+    {
+        "number": 1357,
+        "rarity": "Common",
+        "power": 1276
+    },
+    {
+        "number": 1358,
+        "rarity": "Common",
+        "power": 1275
+    },
+    {
+        "number": 1359,
+        "rarity": "Common",
+        "power": 1274
+    },
+    {
+        "number": 1360,
+        "rarity": "Common",
+        "power": 1273
+    },
+    {
+        "number": 1361,
+        "rarity": "Common",
+        "power": 1272
+    },
+    {
+        "number": 1362,
+        "rarity": "Common",
+        "power": 1271
+    },
+    {
+        "number": 1363,
+        "rarity": "Common",
+        "power": 1270
+    },
+    {
+        "number": 1364,
+        "rarity": "Common",
+        "power": 1269
+    },
+    {
+        "number": 1365,
+        "rarity": "Common",
+        "power": 1268
+    },
+    {
+        "number": 1366,
+        "rarity": "Common",
+        "power": 1267
+    },
+    {
+        "number": 1367,
+        "rarity": "Common",
+        "power": 1266
+    },
+    {
+        "number": 1368,
+        "rarity": "Common",
+        "power": 1265
+    },
+    {
+        "number": 1369,
+        "rarity": "Common",
+        "power": 1264
+    },
+    {
+        "number": 1370,
+        "rarity": "Common",
+        "power": 1263
+    },
+    {
+        "number": 1371,
+        "rarity": "Common",
+        "power": 1262
+    },
+    {
+        "number": 1372,
+        "rarity": "Common",
+        "power": 1261
+    },
+    {
+        "number": 1373,
+        "rarity": "Common",
+        "power": 1260
+    },
+    {
+        "number": 1374,
+        "rarity": "Common",
+        "power": 1259
+    },
+    {
+        "number": 1375,
+        "rarity": "Common",
+        "power": 1258
+    },
+    {
+        "number": 1376,
+        "rarity": "Common",
+        "power": 1257
+    },
+    {
+        "number": 1377,
+        "rarity": "Common",
+        "power": 1256
+    },
+    {
+        "number": 1378,
+        "rarity": "Common",
+        "power": 1255
+    },
+    {
+        "number": 1379,
+        "rarity": "Common",
+        "power": 1254
+    },
+    {
+        "number": 1380,
+        "rarity": "Common",
+        "power": 1253
+    },
+    {
+        "number": 1381,
+        "rarity": "Common",
+        "power": 1252
+    },
+    {
+        "number": 1382,
+        "rarity": "Common",
+        "power": 1251
+    },
+    {
+        "number": 1383,
+        "rarity": "Common",
+        "power": 1250
+    },
+    {
+        "number": 1384,
+        "rarity": "Common",
+        "power": 1249
+    },
+    {
+        "number": 1385,
+        "rarity": "Common",
+        "power": 1248
+    },
+    {
+        "number": 1386,
+        "rarity": "Common",
+        "power": 1247
+    },
+    {
+        "number": 1387,
+        "rarity": "Common",
+        "power": 1246
+    },
+    {
+        "number": 1388,
+        "rarity": "Common",
+        "power": 1245
+    },
+    {
+        "number": 1389,
+        "rarity": "Common",
+        "power": 1244
+    },
+    {
+        "number": 1390,
+        "rarity": "Common",
+        "power": 1243
+    },
+    {
+        "number": 1391,
+        "rarity": "Common",
+        "power": 1242
+    },
+    {
+        "number": 1392,
+        "rarity": "Common",
+        "power": 1241
+    },
+    {
+        "number": 1393,
+        "rarity": "Common",
+        "power": 1240
+    },
+    {
+        "number": 1394,
+        "rarity": "Common",
+        "power": 1239
+    },
+    {
+        "number": 1395,
+        "rarity": "Common",
+        "power": 1238
+    },
+    {
+        "number": 1396,
+        "rarity": "Common",
+        "power": 1237
+    },
+    {
+        "number": 1397,
+        "rarity": "Common",
+        "power": 1236
+    },
+    {
+        "number": 1398,
+        "rarity": "Common",
+        "power": 1235
+    },
+    {
+        "number": 1399,
+        "rarity": "Common",
+        "power": 1234
+    },
+    {
+        "number": 1400,
+        "rarity": "Common",
+        "power": 1233
+    },
+    {
+        "number": 1401,
+        "rarity": "Common",
+        "power": 1232
+    },
+    {
+        "number": 1402,
+        "rarity": "Common",
+        "power": 1231
+    },
+    {
+        "number": 1403,
+        "rarity": "Common",
+        "power": 1230
+    },
+    {
+        "number": 1404,
+        "rarity": "Common",
+        "power": 1229
+    },
+    {
+        "number": 1405,
+        "rarity": "Common",
+        "power": 1228
+    },
+    {
+        "number": 1406,
+        "rarity": "Common",
+        "power": 1227
+    },
+    {
+        "number": 1407,
+        "rarity": "Common",
+        "power": 1226
+    },
+    {
+        "number": 1408,
+        "rarity": "Common",
+        "power": 1225
+    },
+    {
+        "number": 1409,
+        "rarity": "Common",
+        "power": 1224
+    },
+    {
+        "number": 1410,
+        "rarity": "Common",
+        "power": 1223
+    },
+    {
+        "number": 1411,
+        "rarity": "Common",
+        "power": 1222
+    },
+    {
+        "number": 1412,
+        "rarity": "Common",
+        "power": 1221
+    },
+    {
+        "number": 1413,
+        "rarity": "Common",
+        "power": 1220
+    },
+    {
+        "number": 1414,
+        "rarity": "Common",
+        "power": 1219
+    },
+    {
+        "number": 1415,
+        "rarity": "Common",
+        "power": 1218
+    },
+    {
+        "number": 1416,
+        "rarity": "Common",
+        "power": 1217
+    },
+    {
+        "number": 1417,
+        "rarity": "Common",
+        "power": 1216
+    },
+    {
+        "number": 1418,
+        "rarity": "Common",
+        "power": 1215
+    },
+    {
+        "number": 1419,
+        "rarity": "Common",
+        "power": 1214
+    },
+    {
+        "number": 1420,
+        "rarity": "Common",
+        "power": 1213
+    },
+    {
+        "number": 1421,
+        "rarity": "Common",
+        "power": 1212
+    },
+    {
+        "number": 1422,
+        "rarity": "Common",
+        "power": 1211
+    },
+    {
+        "number": 1423,
+        "rarity": "Common",
+        "power": 1210
+    },
+    {
+        "number": 1424,
+        "rarity": "Common",
+        "power": 1209
+    },
+    {
+        "number": 1425,
+        "rarity": "Common",
+        "power": 1208
+    },
+    {
+        "number": 1426,
+        "rarity": "Common",
+        "power": 1207
+    },
+    {
+        "number": 1427,
+        "rarity": "Common",
+        "power": 1206
+    },
+    {
+        "number": 1428,
+        "rarity": "Common",
+        "power": 1205
+    },
+    {
+        "number": 1429,
+        "rarity": "Common",
+        "power": 1204
+    },
+    {
+        "number": 1430,
+        "rarity": "Common",
+        "power": 1203
+    },
+    {
+        "number": 1431,
+        "rarity": "Common",
+        "power": 1202
+    },
+    {
+        "number": 1432,
+        "rarity": "Common",
+        "power": 1201
+    },
+    {
+        "number": 1433,
+        "rarity": "Common",
+        "power": 1200
+    },
+    {
+        "number": 1434,
+        "rarity": "Common",
+        "power": 1199
+    },
+    {
+        "number": 1435,
+        "rarity": "Common",
+        "power": 1198
+    },
+    {
+        "number": 1436,
+        "rarity": "Common",
+        "power": 1197
+    },
+    {
+        "number": 1437,
+        "rarity": "Common",
+        "power": 1196
+    },
+    {
+        "number": 1438,
+        "rarity": "Common",
+        "power": 1195
+    },
+    {
+        "number": 1439,
+        "rarity": "Common",
+        "power": 1194
+    },
+    {
+        "number": 1440,
+        "rarity": "Common",
+        "power": 1193
+    },
+    {
+        "number": 1441,
+        "rarity": "Common",
+        "power": 1192
+    },
+    {
+        "number": 1442,
+        "rarity": "Common",
+        "power": 1191
+    },
+    {
+        "number": 1443,
+        "rarity": "Common",
+        "power": 1190
+    },
+    {
+        "number": 1444,
+        "rarity": "Common",
+        "power": 1189
+    },
+    {
+        "number": 1445,
+        "rarity": "Common",
+        "power": 1188
+    },
+    {
+        "number": 1446,
+        "rarity": "Common",
+        "power": 1187
+    },
+    {
+        "number": 1447,
+        "rarity": "Common",
+        "power": 1186
+    },
+    {
+        "number": 1448,
+        "rarity": "Common",
+        "power": 1185
+    },
+    {
+        "number": 1449,
+        "rarity": "Common",
+        "power": 1184
+    },
+    {
+        "number": 1450,
+        "rarity": "Common",
+        "power": 1183
+    },
+    {
+        "number": 1451,
+        "rarity": "Common",
+        "power": 1182
+    },
+    {
+        "number": 1452,
+        "rarity": "Common",
+        "power": 1181
+    },
+    {
+        "number": 1453,
+        "rarity": "Common",
+        "power": 1180
+    },
+    {
+        "number": 1454,
+        "rarity": "Common",
+        "power": 1179
+    },
+    {
+        "number": 1455,
+        "rarity": "Common",
+        "power": 1178
+    },
+    {
+        "number": 1456,
+        "rarity": "Common",
+        "power": 1177
+    },
+    {
+        "number": 1457,
+        "rarity": "Common",
+        "power": 1176
+    },
+    {
+        "number": 1458,
+        "rarity": "Common",
+        "power": 1175
+    },
+    {
+        "number": 1459,
+        "rarity": "Common",
+        "power": 1174
+    },
+    {
+        "number": 1460,
+        "rarity": "Common",
+        "power": 1173
+    },
+    {
+        "number": 1461,
+        "rarity": "Common",
+        "power": 1172
+    },
+    {
+        "number": 1462,
+        "rarity": "Common",
+        "power": 1171
+    },
+    {
+        "number": 1463,
+        "rarity": "Common",
+        "power": 1170
+    },
+    {
+        "number": 1464,
+        "rarity": "Common",
+        "power": 1169
+    },
+    {
+        "number": 1465,
+        "rarity": "Common",
+        "power": 1168
+    },
+    {
+        "number": 1466,
+        "rarity": "Common",
+        "power": 1167
+    },
+    {
+        "number": 1467,
+        "rarity": "Common",
+        "power": 1166
+    },
+    {
+        "number": 1468,
+        "rarity": "Common",
+        "power": 1165
+    },
+    {
+        "number": 1469,
+        "rarity": "Common",
+        "power": 1164
+    },
+    {
+        "number": 1470,
+        "rarity": "Common",
+        "power": 1163
+    },
+    {
+        "number": 1471,
+        "rarity": "Common",
+        "power": 1162
+    },
+    {
+        "number": 1472,
+        "rarity": "Common",
+        "power": 1161
+    },
+    {
+        "number": 1473,
+        "rarity": "Common",
+        "power": 1160
+    },
+    {
+        "number": 1474,
+        "rarity": "Common",
+        "power": 1159
+    },
+    {
+        "number": 1475,
+        "rarity": "Common",
+        "power": 1158
+    },
+    {
+        "number": 1476,
+        "rarity": "Common",
+        "power": 1157
+    },
+    {
+        "number": 1477,
+        "rarity": "Common",
+        "power": 1156
+    },
+    {
+        "number": 1478,
+        "rarity": "Common",
+        "power": 1155
+    },
+    {
+        "number": 1479,
+        "rarity": "Common",
+        "power": 1154
+    },
+    {
+        "number": 1480,
+        "rarity": "Common",
+        "power": 1153
+    },
+    {
+        "number": 1481,
+        "rarity": "Common",
+        "power": 1152
+    },
+    {
+        "number": 1482,
+        "rarity": "Common",
+        "power": 1151
+    },
+    {
+        "number": 1483,
+        "rarity": "Common",
+        "power": 1150
+    },
+    {
+        "number": 1484,
+        "rarity": "Common",
+        "power": 1149
+    },
+    {
+        "number": 1485,
+        "rarity": "Common",
+        "power": 1148
+    },
+    {
+        "number": 1486,
+        "rarity": "Common",
+        "power": 1147
+    },
+    {
+        "number": 1487,
+        "rarity": "Common",
+        "power": 1146
+    },
+    {
+        "number": 1488,
+        "rarity": "Common",
+        "power": 1145
+    },
+    {
+        "number": 1489,
+        "rarity": "Common",
+        "power": 1144
+    },
+    {
+        "number": 1490,
+        "rarity": "Common",
+        "power": 1143
+    },
+    {
+        "number": 1491,
+        "rarity": "Common",
+        "power": 1142
+    },
+    {
+        "number": 1492,
+        "rarity": "Common",
+        "power": 1141
+    },
+    {
+        "number": 1493,
+        "rarity": "Common",
+        "power": 1140
+    },
+    {
+        "number": 1494,
+        "rarity": "Common",
+        "power": 1139
+    },
+    {
+        "number": 1495,
+        "rarity": "Common",
+        "power": 1138
+    },
+    {
+        "number": 1496,
+        "rarity": "Common",
+        "power": 1137
+    },
+    {
+        "number": 1497,
+        "rarity": "Common",
+        "power": 1136
+    },
+    {
+        "number": 1498,
+        "rarity": "Common",
+        "power": 1135
+    },
+    {
+        "number": 1499,
+        "rarity": "Common",
+        "power": 1134
+    },
+    {
+        "number": 1500,
+        "rarity": "Common",
+        "power": 1133
+    },
+    {
+        "number": 1501,
+        "rarity": "Common",
+        "power": 1132
+    },
+    {
+        "number": 1502,
+        "rarity": "Common",
+        "power": 1131
+    },
+    {
+        "number": 1503,
+        "rarity": "Common",
+        "power": 1130
+    },
+    {
+        "number": 1504,
+        "rarity": "Common",
+        "power": 1129
+    },
+    {
+        "number": 1505,
+        "rarity": "Common",
+        "power": 1128
+    },
+    {
+        "number": 1506,
+        "rarity": "Common",
+        "power": 1127
+    },
+    {
+        "number": 1507,
+        "rarity": "Common",
+        "power": 1126
+    },
+    {
+        "number": 1508,
+        "rarity": "Common",
+        "power": 1125
+    },
+    {
+        "number": 1509,
+        "rarity": "Common",
+        "power": 1124
+    },
+    {
+        "number": 1510,
+        "rarity": "Common",
+        "power": 1123
+    },
+    {
+        "number": 1511,
+        "rarity": "Common",
+        "power": 1122
+    },
+    {
+        "number": 1512,
+        "rarity": "Common",
+        "power": 1121
+    },
+    {
+        "number": 1513,
+        "rarity": "Common",
+        "power": 1120
+    },
+    {
+        "number": 1514,
+        "rarity": "Common",
+        "power": 1119
+    },
+    {
+        "number": 1515,
+        "rarity": "Common",
+        "power": 1118
+    },
+    {
+        "number": 1516,
+        "rarity": "Common",
+        "power": 1117
+    },
+    {
+        "number": 1517,
+        "rarity": "Common",
+        "power": 1116
+    },
+    {
+        "number": 1518,
+        "rarity": "Common",
+        "power": 1115
+    },
+    {
+        "number": 1519,
+        "rarity": "Common",
+        "power": 1114
+    },
+    {
+        "number": 1520,
+        "rarity": "Common",
+        "power": 1113
+    },
+    {
+        "number": 1521,
+        "rarity": "Common",
+        "power": 1112
+    },
+    {
+        "number": 1522,
+        "rarity": "Common",
+        "power": 1111
+    },
+    {
+        "number": 1523,
+        "rarity": "Common",
+        "power": 1110
+    },
+    {
+        "number": 1524,
+        "rarity": "Common",
+        "power": 1109
+    },
+    {
+        "number": 1525,
+        "rarity": "Common",
+        "power": 1108
+    },
+    {
+        "number": 1526,
+        "rarity": "Common",
+        "power": 1107
+    },
+    {
+        "number": 1527,
+        "rarity": "Common",
+        "power": 1106
+    },
+    {
+        "number": 1528,
+        "rarity": "Common",
+        "power": 1105
+    },
+    {
+        "number": 1529,
+        "rarity": "Common",
+        "power": 1104
+    },
+    {
+        "number": 1530,
+        "rarity": "Common",
+        "power": 1103
+    },
+    {
+        "number": 1531,
+        "rarity": "Common",
+        "power": 1102
+    },
+    {
+        "number": 1532,
+        "rarity": "Common",
+        "power": 1101
+    },
+    {
+        "number": 1533,
+        "rarity": "Common",
+        "power": 1100
+    },
+    {
+        "number": 1534,
+        "rarity": "Common",
+        "power": 1099
+    },
+    {
+        "number": 1535,
+        "rarity": "Common",
+        "power": 1098
+    },
+    {
+        "number": 1536,
+        "rarity": "Common",
+        "power": 1097
+    },
+    {
+        "number": 1537,
+        "rarity": "Common",
+        "power": 1096
+    },
+    {
+        "number": 1538,
+        "rarity": "Common",
+        "power": 1095
+    },
+    {
+        "number": 1539,
+        "rarity": "Common",
+        "power": 1094
+    },
+    {
+        "number": 1540,
+        "rarity": "Common",
+        "power": 1093
+    },
+    {
+        "number": 1541,
+        "rarity": "Common",
+        "power": 1092
+    },
+    {
+        "number": 1542,
+        "rarity": "Common",
+        "power": 1091
+    },
+    {
+        "number": 1543,
+        "rarity": "Common",
+        "power": 1090
+    },
+    {
+        "number": 1544,
+        "rarity": "Common",
+        "power": 1089
+    },
+    {
+        "number": 1545,
+        "rarity": "Common",
+        "power": 1088
+    },
+    {
+        "number": 1546,
+        "rarity": "Common",
+        "power": 1087
+    },
+    {
+        "number": 1547,
+        "rarity": "Common",
+        "power": 1086
+    },
+    {
+        "number": 1548,
+        "rarity": "Common",
+        "power": 1085
+    },
+    {
+        "number": 1549,
+        "rarity": "Common",
+        "power": 1084
+    },
+    {
+        "number": 1550,
+        "rarity": "Common",
+        "power": 1083
+    },
+    {
+        "number": 1551,
+        "rarity": "Common",
+        "power": 1082
+    },
+    {
+        "number": 1552,
+        "rarity": "Common",
+        "power": 1081
+    },
+    {
+        "number": 1553,
+        "rarity": "Common",
+        "power": 1080
+    },
+    {
+        "number": 1554,
+        "rarity": "Common",
+        "power": 1079
+    },
+    {
+        "number": 1555,
+        "rarity": "Common",
+        "power": 1078
+    },
+    {
+        "number": 1556,
+        "rarity": "Common",
+        "power": 1077
+    },
+    {
+        "number": 1557,
+        "rarity": "Common",
+        "power": 1076
+    },
+    {
+        "number": 1558,
+        "rarity": "Common",
+        "power": 1075
+    },
+    {
+        "number": 1559,
+        "rarity": "Common",
+        "power": 1074
+    },
+    {
+        "number": 1560,
+        "rarity": "Common",
+        "power": 1073
+    },
+    {
+        "number": 1561,
+        "rarity": "Common",
+        "power": 1072
+    },
+    {
+        "number": 1562,
+        "rarity": "Common",
+        "power": 1071
+    },
+    {
+        "number": 1563,
+        "rarity": "Common",
+        "power": 1070
+    },
+    {
+        "number": 1564,
+        "rarity": "Common",
+        "power": 1069
+    },
+    {
+        "number": 1565,
+        "rarity": "Common",
+        "power": 1068
+    },
+    {
+        "number": 1566,
+        "rarity": "Common",
+        "power": 1067
+    },
+    {
+        "number": 1567,
+        "rarity": "Common",
+        "power": 1066
+    },
+    {
+        "number": 1568,
+        "rarity": "Common",
+        "power": 1065
+    },
+    {
+        "number": 1569,
+        "rarity": "Common",
+        "power": 1064
+    },
+    {
+        "number": 1570,
+        "rarity": "Common",
+        "power": 1063
+    },
+    {
+        "number": 1571,
+        "rarity": "Common",
+        "power": 1062
+    },
+    {
+        "number": 1572,
+        "rarity": "Common",
+        "power": 1061
+    },
+    {
+        "number": 1573,
+        "rarity": "Common",
+        "power": 1060
+    },
+    {
+        "number": 1574,
+        "rarity": "Common",
+        "power": 1059
+    },
+    {
+        "number": 1575,
+        "rarity": "Common",
+        "power": 1058
+    },
+    {
+        "number": 1576,
+        "rarity": "Common",
+        "power": 1057
+    },
+    {
+        "number": 1577,
+        "rarity": "Common",
+        "power": 1056
+    },
+    {
+        "number": 1578,
+        "rarity": "Common",
+        "power": 1055
+    },
+    {
+        "number": 1579,
+        "rarity": "Common",
+        "power": 1054
+    },
+    {
+        "number": 1580,
+        "rarity": "Common",
+        "power": 1053
+    },
+    {
+        "number": 1581,
+        "rarity": "Common",
+        "power": 1052
+    },
+    {
+        "number": 1582,
+        "rarity": "Common",
+        "power": 1051
+    },
+    {
+        "number": 1583,
+        "rarity": "Common",
+        "power": 1050
+    },
+    {
+        "number": 1584,
+        "rarity": "Common",
+        "power": 1049
+    },
+    {
+        "number": 1585,
+        "rarity": "Common",
+        "power": 1048
+    },
+    {
+        "number": 1586,
+        "rarity": "Common",
+        "power": 1047
+    },
+    {
+        "number": 1587,
+        "rarity": "Common",
+        "power": 1046
+    },
+    {
+        "number": 1588,
+        "rarity": "Common",
+        "power": 1045
+    },
+    {
+        "number": 1589,
+        "rarity": "Common",
+        "power": 1044
+    },
+    {
+        "number": 1590,
+        "rarity": "Common",
+        "power": 1043
+    },
+    {
+        "number": 1591,
+        "rarity": "Common",
+        "power": 1042
+    },
+    {
+        "number": 1592,
+        "rarity": "Common",
+        "power": 1041
+    },
+    {
+        "number": 1593,
+        "rarity": "Common",
+        "power": 1040
+    },
+    {
+        "number": 1594,
+        "rarity": "Common",
+        "power": 1039
+    },
+    {
+        "number": 1595,
+        "rarity": "Common",
+        "power": 1038
+    },
+    {
+        "number": 1596,
+        "rarity": "Common",
+        "power": 1037
+    },
+    {
+        "number": 1597,
+        "rarity": "Common",
+        "power": 1036
+    },
+    {
+        "number": 1598,
+        "rarity": "Common",
+        "power": 1035
+    },
+    {
+        "number": 1599,
+        "rarity": "Common",
+        "power": 1034
+    },
+    {
+        "number": 1600,
+        "rarity": "Common",
+        "power": 1033
+    },
+    {
+        "number": 1601,
+        "rarity": "Common",
+        "power": 1032
+    },
+    {
+        "number": 1602,
+        "rarity": "Common",
+        "power": 1031
+    },
+    {
+        "number": 1603,
+        "rarity": "Common",
+        "power": 1030
+    },
+    {
+        "number": 1604,
+        "rarity": "Common",
+        "power": 1029
+    },
+    {
+        "number": 1605,
+        "rarity": "Common",
+        "power": 1028
+    },
+    {
+        "number": 1606,
+        "rarity": "Common",
+        "power": 1027
+    },
+    {
+        "number": 1607,
+        "rarity": "Common",
+        "power": 1026
+    },
+    {
+        "number": 1608,
+        "rarity": "Common",
+        "power": 1025
+    },
+    {
+        "number": 1609,
+        "rarity": "Common",
+        "power": 1024
+    },
+    {
+        "number": 1610,
+        "rarity": "Common",
+        "power": 1023
+    },
+    {
+        "number": 1611,
+        "rarity": "Common",
+        "power": 1022
+    },
+    {
+        "number": 1612,
+        "rarity": "Common",
+        "power": 1021
+    },
+    {
+        "number": 1613,
+        "rarity": "Common",
+        "power": 1020
+    },
+    {
+        "number": 1614,
+        "rarity": "Common",
+        "power": 1019
+    },
+    {
+        "number": 1615,
+        "rarity": "Common",
+        "power": 1018
+    },
+    {
+        "number": 1616,
+        "rarity": "Common",
+        "power": 1017
+    },
+    {
+        "number": 1617,
+        "rarity": "Common",
+        "power": 1016
+    },
+    {
+        "number": 1618,
+        "rarity": "Common",
+        "power": 1015
+    },
+    {
+        "number": 1619,
+        "rarity": "Common",
+        "power": 1014
+    },
+    {
+        "number": 1620,
+        "rarity": "Common",
+        "power": 1013
+    },
+    {
+        "number": 1621,
+        "rarity": "Common",
+        "power": 1012
+    },
+    {
+        "number": 1622,
+        "rarity": "Common",
+        "power": 1011
+    },
+    {
+        "number": 1623,
+        "rarity": "Common",
+        "power": 1010
+    },
+    {
+        "number": 1624,
+        "rarity": "Common",
+        "power": 1009
+    },
+    {
+        "number": 1625,
+        "rarity": "Common",
+        "power": 1008
+    },
+    {
+        "number": 1626,
+        "rarity": "Common",
+        "power": 1007
+    },
+    {
+        "number": 1627,
+        "rarity": "Common",
+        "power": 1006
+    },
+    {
+        "number": 1628,
+        "rarity": "Common",
+        "power": 1005
+    },
+    {
+        "number": 1629,
+        "rarity": "Common",
+        "power": 1004
+    },
+    {
+        "number": 1630,
+        "rarity": "Common",
+        "power": 1003
+    },
+    {
+        "number": 1631,
+        "rarity": "Common",
+        "power": 1002
+    },
+    {
+        "number": 1632,
+        "rarity": "Common",
+        "power": 1001
+    },
+    {
+        "number": 1633,
+        "rarity": "Common",
+        "power": 1000
+    }
+]
